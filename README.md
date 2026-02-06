@@ -1,1 +1,1 @@
-# USENIXSEC_paper1644
+# SOCRATES: An AI-Powered SOC Agent for Automated Network Alert Triage
