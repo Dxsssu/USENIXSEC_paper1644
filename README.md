@@ -39,3 +39,12 @@ Useful environment variables:
 - `AGGR_W_FREQ`, `AGGR_W_RULE`, `AGGR_W_CTX`, `AGGR_W_RARE`
 - `AGGR_ASSET_TABLE_PATH` (default: `config/assets_static.json`)
 - `AGGR_HISTORY_PREFIX` (default: `socrates:aggr:hist`)
+
+## Experimental Results
+
+Experiment artifacts are stored under `results/`.
+
+- `results/exploratory_result/` contains exploratory experiments.
+- Current exploratory setup includes 3 model folders (`Qwen3-14B`, `Qwen3-30B-A3B`, `Qwen3-32B`).
+- Each model folder stores 4 prompt-strategy outputs in `.jsonl` format (Zero-shot, Expertise, Few-shot, CoT).
+- Future experiment categories should be added as independent subdirectories under `results/` (for extensibility).
