@@ -2,4 +2,7 @@
 name = "usenixsec-paper1644"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+  "elasticsearch>=8.0.0",
+  "redis>=5.0.0",
+]

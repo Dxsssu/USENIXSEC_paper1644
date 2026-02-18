@@ -15,3 +15,27 @@ SOCRATES follows a coarse-to-fine pipeline with three sequential modules:
 1. Aggregation and filtering: normalize heterogeneous alerts, aggregate redundant events, and apply lightweight scoring/thresholding to reduce volume before deeper analysis.
 2. Business-logic self-learning: learn enterprise-specific benign patterns from historical alerts (via XGBoost) and suppress recurring business-induced false positives.
 3. Context-enhanced LLM investigation: retrieve alert-centric context from internal sources (e.g., asset metadata and multi-source logs) and external threat intelligence, then produce evidence-grounded triage decisions and explanations.
+
+## Module 1 Runtime (Implemented)
+
+`module_aggregation_filtering` now supports the paper's first stage: lightweight alert aggregation and denoising, and is wired to the alert receiver module through Redis queues.
+
+- Input queue: `socrates:alerts` (produced by `module_alert_receiver`)
+- High-priority output queue: `socrates:alerts:aggregated`
+- Suppressed output queue: `socrates:alerts:suppressed`
+
+Run:
+
+```bash
+PYTHONPATH=src python -m module_aggregation_filtering
+```
+
+Useful environment variables:
+
+- `AGGR_REDIS_URL` (default: `redis://localhost:6379/0`)
+- `AGGR_INPUT_KEY` / `AGGR_OUTPUT_KEY` / `AGGR_SUPPRESSED_KEY`
+- `AGGR_WINDOW_S` (default: `300`)
+- `AGGR_SCORE_THRESHOLD` (default: `50.0`, score range `0-100`)
+- `AGGR_W_FREQ`, `AGGR_W_RULE`, `AGGR_W_CTX`, `AGGR_W_RARE`
+- `AGGR_ASSET_TABLE_PATH` (default: `config/assets_static.json`)
+- `AGGR_HISTORY_PREFIX` (default: `socrates:aggr:hist`)

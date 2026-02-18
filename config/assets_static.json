@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "ip": "10.132.3.60",
+      "criticality": 0.85,
+      "exposure": 0.25,
+      "sensitive": true
+    },
+    {
+      "cidr": "10.132.0.0/16",
+      "criticality": 0.65,
+      "exposure": 0.2,
+      "sensitive": true
+    },
+    {
+      "cidr": "10.0.0.0/8",
+      "criticality": 0.5,
+      "exposure": 0.15,
+      "sensitive": false
+    }
+  ]
+}
