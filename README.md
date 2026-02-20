@@ -1,6 +1,6 @@
 # SOCRATES: An AI-Powered SOC Agent for Automated Network Alert Triage
 
-This repository archives the paper “SOCRATES: An AI-Powered SOC Agent for Automated Network Alert Triage” (PDF: `AI_Powered_SOC_Agents_for_Automated_Network_Alert_Triage.pdf`).
+This repository archives the paper “SOCRATES: An AI-Powered SOC Agent for Automated Network Alert Triage” (PDF: `docs/AI_Powered_SOC_Agents_for_Automated_Network_Alert_Triage.pdf`).
 
 ## Abstract
 
@@ -10,41 +10,60 @@ We propose SOCRATES, an AI-powered SOC agent for automated and scalable network 
 
 ## System Modules
 
-SOCRATES follows a coarse-to-fine pipeline with three sequential modules:
+SOCRATES follows a coarse-to-fine pipeline with one ingestion stage and three core triage stages:
 
-1. Aggregation and filtering: normalize heterogeneous alerts, aggregate redundant events, and apply lightweight scoring/thresholding to reduce volume before deeper analysis.
-2. Business-logic self-learning: learn enterprise-specific benign patterns from historical alerts (via XGBoost) and suppress recurring business-induced false positives.
-3. Context-enhanced LLM investigation: retrieve alert-centric context from internal sources (e.g., asset metadata and multi-source logs) and external threat intelligence, then produce evidence-grounded triage decisions and explanations.
+1. Alert receiver: stream alerts from Elastic and push raw events to Redis.
+2. Lightweight aggregation and filtering: normalize/aggregate alerts and score for denoising.
+3. Business-logic self-learning: XGBoost-based suppression of recurring benign business traffic.
+4. Context-enhanced LLM investigation: retrieve internal/external context and produce final triage verdicts.
 
-## Module 1 Runtime (Implemented)
+## Project Architecture
 
-`module_aggregation_filtering` now supports the paper's first stage: lightweight alert aggregation and denoising, and is wired to the alert receiver module through Redis queues.
-
-- Input queue: `socrates:alerts` (produced by `module_alert_receiver`)
-- High-priority output queue: `socrates:alerts:aggregated`
-- Suppressed output queue: `socrates:alerts:suppressed`
-
-Run:
-
-```bash
-PYTHONPATH=src python -m module_aggregation_filtering
+```txt
+USENIXSEC_paper1644/
+├── README.md
+├── main.py
+├── pyproject.toml
+├── uv.lock
+├── draft
+├── config/
+│   ├── system_config.json
+│   └── assets_static.json
+├── docs/
+│   └── AI_Powered_SOC_Agents_for_Automated_Network_Alert_Triage.pdf
+├── models/
+├── prompts/
+│   ├── module_context_enhanced_llm/
+│   └── exploratory_study/
+├── results/
+├── scripts/
+├── data/
+└── src/
+    ├── module_alert_receiver/
+    ├── module_aggregation_filtering/
+    ├── module_business_logic_self_learning/
+    └── module_context_enhanced_llm/
 ```
 
-Useful environment variables:
+## Run Project
 
-- `AGGR_REDIS_URL` (default: `redis://localhost:6379/0`)
-- `AGGR_INPUT_KEY` / `AGGR_OUTPUT_KEY` / `AGGR_SUPPRESSED_KEY`
-- `AGGR_WINDOW_S` (default: `300`)
-- `AGGR_SCORE_THRESHOLD` (default: `50.0`, score range `0-100`)
-- `AGGR_W_FREQ`, `AGGR_W_RULE`, `AGGR_W_CTX`, `AGGR_W_RARE`
-- `AGGR_ASSET_TABLE_PATH` (default: `config/assets_static.json`)
-- `AGGR_HISTORY_PREFIX` (default: `socrates:aggr:hist`)
+1. Configure interfaces first (`config/system_config.json`):
+   - Redis: `receiver.redis.url`, and each module queue `redis_url`.
+   - Elasticsearch: `receiver.elastic.*`, `module2.elastic.*`, `module3.elastic.*`.
+   - Internal/External APIs: `module3.cmdb.*`, `module3.external.*`.
+   - Model paths: `module2.model.model_path`, `module3.llm.model_path`.
+2. Create environment and install dependencies:
+   - `uv venv`
+   - `source .venv/bin/activate`
+   - `uv sync`
+3. (Optional) train module2 XGBoost model:
+   - `uv run python main.py --config config/system_config.json train-module2`
+4. Start full pipeline:
+   - `uv run python main.py --config config/system_config.json run-all`
+5. Run single modules if needed:
+   - `uv run python main.py --config config/system_config.json run-receiver`
+   - `uv run python main.py --config config/system_config.json run-module1`
+   - `uv run python main.py --config config/system_config.json run-module2`
+   - `uv run python main.py --config config/system_config.json run-module3`
 
-## Experimental Results
-
-Experiment artifacts are stored under `results/`.
-
-- `results/exploratory_result/` contains exploratory experiments.
-- Current exploratory setup includes 3 model folders (`Qwen3-14B`, `Qwen3-30B-A3B`, `Qwen3-32B`).
-- Each model folder stores 4 prompt-strategy outputs in `.jsonl` format (Zero-shot, Expertise, Few-shot, CoT).
-- Future experiment categories should be added as independent subdirectories under `results/` (for extensibility).
+Note: `run-*` commands perform startup connectivity checks. If Redis/Elasticsearch is unreachable or config is invalid, the process exits immediately with an error.

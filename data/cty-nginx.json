@@ -1,0 +1,49 @@
+[
+    {
+        "request": "GET /oauth/static/default/img/login/eye-close.png HTTP/1.1",
+        "remote_addr": "192.168.184.202",
+        "agent": {
+            "name": "zxk-fhtx-portal",
+            "id": "40a31687-db0e-4e6d-864b-8f17aff1df50",
+            "ephemeral_id": "42e6abbb-5718-4614-9f23-fbf8e213f7fd",
+            "type": "filebeat",
+            "version": "8.8.0"
+        },
+        "log": {
+            "file": {
+                "path": "/data/nginxlog/nginx_access.log"
+            },
+            "offset": 200581106001
+        },
+        "log_from": "10.6.8.5",
+        "body_bytes_sent": "631",
+        "remote_port": "40828",
+        "time_local": "08/Jan/2026:16:16:31 +0800",
+        "content": "192.168.184.202 | 40828 | - | [08/Jan/2026:16:16:31 +0800] | \"GET /oauth/static/default/img/login/eye-close.png HTTP/1.1\" | 200 | 631 | srm.fiberhome.com | \"https://srm.fiberhome.com/oauth/static/default/css/login.css?t=2019091721836\" | \"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140\" | \"111.229.101.117\" | 0.018 | 0.017 | -",
+        "http_cookie_user_name": "-",
+        "http_user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+        "tags": [
+            "beats_input_codec_plain_applied"
+        ],
+        "remote_user": "-",
+        "input": {
+            "type": "log"
+        },
+        "request_time": "0.018",
+        "@timestamp": "2026-01-08 08:16:32",
+        "ecs": {
+            "version": "8.0.0"
+        },
+        "http_referer": "https://srm.fiberhome.com/oauth/static/default/css/login.css?t=2019091721836",
+        "host": {
+            "name": "zxk-fhtx-portal"
+        },
+        "@version": "1",
+        "http_x_forwarded_for": "111.229.101.117",
+        "upstream_response_time": "0.017",
+        "event": {
+            "original": "192.168.184.202 | 40828 | - | [08/Jan/2026:16:16:31 +0800] | \"GET /oauth/static/default/img/login/eye-close.png HTTP/1.1\" | 200 | 631 | srm.fiberhome.com | \"https://srm.fiberhome.com/oauth/static/default/css/login.css?t=2019091721836\" | \"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140\" | \"111.229.101.117\" | 0.018 | 0.017 | -"
+        },
+        "status": "200"
+    }
+]

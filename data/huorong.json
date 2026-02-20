@@ -1,0 +1,23 @@
+[
+    {
+        "laddr": "10.190.180.230:445",
+        "detection": "SMBv2暴破攻击",
+        "uptm": 1767853133,
+        "gid": 209,
+        "log_from": "10.115.50.29",
+        "group_name": "实验网-高新3号楼-2楼-网络产出线-尹晓佳",
+        "center_version": "2.0.17.5",
+        "uuid": "691c683a40fa5bbcb9e0c837d8ae60fc27796de786f4c890ff2ae725a594ee4e",
+        "content": " {\"center_version\":\"2.0.17.5\",\"event\":{\"blocked\":\"已阻止\",\"call_ip\":\"10.190.180.230\",\"client_id\":12792,\"client_name\":\"WIN-FU6F412C4M9\",\"detection\":\"SMBv2暴破攻击\",\"detection_val\":\"\",\"gid\":209,\"group_name\":\"实验网-高新3号楼-2楼-网络产出线-尹晓佳\",\"group_name_path\":\"实验网-高新3号楼-2楼-网络产出线-尹晓佳\",\"ip_addr\":\"10.190.180.230\",\"laddr\":\"10.190.180.230:445\",\"mac\":\"48-F9-7C-E6-14-16\",\"os_type\":\"Windows\",\"ostype\":\"Windows\",\"raddr\":\"10.219.34.143:49953\",\"stat\":2,\"tm\":1767853078,\"uptm\":1767853133},\"event_type\":\"暴破攻击防护\"}",
+        "client_id": 12792,
+        "mac": "48-F9-7C-E6-14-16",
+        "log_time": "Jan  8 14:20:43",
+        "event_type": "暴破攻击防护",
+        "@timestamp": "2026-01-08 14:20:43",
+        "blocked": "已阻止",
+        "call_ip": "10.190.180.230",
+        "procname": null,
+        "ip_addr": "10.190.180.230",
+        "client_name": "WIN-FU6F412C4M9"
+    }
+]
