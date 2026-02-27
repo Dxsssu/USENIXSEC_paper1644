@@ -1,0 +1,1127 @@
+{
+    "type": "ip_address",
+    "attributes": {
+        "jarm": "15d3fd16d29d29d00042d43d000000ed1cf37c9a169b41886e27ba8fad60b0",
+        "last_modification_date": 1769945512,
+        "country": "CA",
+        "continent": "NA",
+        "last_https_certificate_date": 1673425267,
+        "last_analysis_results": {
+            "Acronis": {
+                "method": "blacklist",
+                "engine_name": "Acronis",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "0xSI_f33d": {
+                "method": "blacklist",
+                "engine_name": "0xSI_f33d",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Abusix": {
+                "method": "blacklist",
+                "engine_name": "Abusix",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ADMINUSLabs": {
+                "method": "blacklist",
+                "engine_name": "ADMINUSLabs",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Axur": {
+                "method": "blacklist",
+                "engine_name": "Axur",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ChainPatrol": {
+                "method": "blacklist",
+                "engine_name": "ChainPatrol",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Criminal IP": {
+                "method": "blacklist",
+                "engine_name": "Criminal IP",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "AILabs (MONITORAPP)": {
+                "method": "blacklist",
+                "engine_name": "AILabs (MONITORAPP)",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "AlienVault": {
+                "method": "blacklist",
+                "engine_name": "AlienVault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "alphaMountain.ai": {
+                "method": "blacklist",
+                "engine_name": "alphaMountain.ai",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AlphaSOC": {
+                "method": "blacklist",
+                "engine_name": "AlphaSOC",
+                "category": "suspicious",
+                "result": "suspicious"
+            },
+            "Antiy-AVL": {
+                "method": "blacklist",
+                "engine_name": "Antiy-AVL",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ArcSight Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "ArcSight Threat Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AutoShun": {
+                "method": "blacklist",
+                "engine_name": "AutoShun",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "benkow.cc": {
+                "method": "blacklist",
+                "engine_name": "benkow.cc",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bfore.Ai PreCrime": {
+                "method": "blacklist",
+                "engine_name": "Bfore.Ai PreCrime",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "BitDefender": {
+                "method": "blacklist",
+                "engine_name": "BitDefender",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bkav": {
+                "method": "blacklist",
+                "engine_name": "Bkav",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Blueliv": {
+                "method": "blacklist",
+                "engine_name": "Blueliv",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Certego": {
+                "method": "blacklist",
+                "engine_name": "Certego",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Chong Lua Dao": {
+                "method": "blacklist",
+                "engine_name": "Chong Lua Dao",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CINS Army": {
+                "method": "blacklist",
+                "engine_name": "CINS Army",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cluster25": {
+                "method": "blacklist",
+                "engine_name": "Cluster25",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "CRDF": {
+                "method": "blacklist",
+                "engine_name": "CRDF",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CSIS Security Group": {
+                "method": "blacklist",
+                "engine_name": "CSIS Security Group",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Snort IP sample list": {
+                "method": "blacklist",
+                "engine_name": "Snort IP sample list",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CMC Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "CMC Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cyan": {
+                "method": "blacklist",
+                "engine_name": "Cyan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Cyble": {
+                "method": "blacklist",
+                "engine_name": "Cyble",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "CyRadar": {
+                "method": "blacklist",
+                "engine_name": "CyRadar",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "DNS8": {
+                "method": "blacklist",
+                "engine_name": "DNS8",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Dr.Web": {
+                "method": "blacklist",
+                "engine_name": "Dr.Web",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Ermes": {
+                "method": "blacklist",
+                "engine_name": "Ermes",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ESET": {
+                "method": "blacklist",
+                "engine_name": "ESET",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ESTsecurity": {
+                "method": "blacklist",
+                "engine_name": "ESTsecurity",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "EmergingThreats": {
+                "method": "blacklist",
+                "engine_name": "EmergingThreats",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Emsisoft": {
+                "method": "blacklist",
+                "engine_name": "Emsisoft",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Forcepoint ThreatSeeker": {
+                "method": "blacklist",
+                "engine_name": "Forcepoint ThreatSeeker",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Fortinet": {
+                "method": "blacklist",
+                "engine_name": "Fortinet",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "G-Data": {
+                "method": "blacklist",
+                "engine_name": "G-Data",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GCP Abuse Intelligence": {
+                "method": "blacklist",
+                "engine_name": "GCP Abuse Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Google Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Google Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreenSnow": {
+                "method": "blacklist",
+                "engine_name": "GreenSnow",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreyNoise": {
+                "method": "blacklist",
+                "engine_name": "GreyNoise",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "Gridinsoft": {
+                "method": "blacklist",
+                "engine_name": "Gridinsoft",
+                "category": "suspicious",
+                "result": "suspicious"
+            },
+            "Heimdal Security": {
+                "method": "blacklist",
+                "engine_name": "Heimdal Security",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Hunt.io Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Hunt.io Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "IPsum": {
+                "method": "blacklist",
+                "engine_name": "IPsum",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Juniper Networks": {
+                "method": "blacklist",
+                "engine_name": "Juniper Networks",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Kaspersky": {
+                "method": "blacklist",
+                "engine_name": "Kaspersky",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Lionic": {
+                "method": "blacklist",
+                "engine_name": "Lionic",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Lumu": {
+                "method": "blacklist",
+                "engine_name": "Lumu",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "MalwarePatrol": {
+                "method": "blacklist",
+                "engine_name": "MalwarePatrol",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "MalwareURL": {
+                "method": "blacklist",
+                "engine_name": "MalwareURL",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Malwared": {
+                "method": "blacklist",
+                "engine_name": "Malwared",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Mimecast": {
+                "method": "blacklist",
+                "engine_name": "Mimecast",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Netcraft": {
+                "method": "blacklist",
+                "engine_name": "Netcraft",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "OpenPhish": {
+                "method": "blacklist",
+                "engine_name": "OpenPhish",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Phishing Database": {
+                "method": "blacklist",
+                "engine_name": "Phishing Database",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PhishFort": {
+                "method": "blacklist",
+                "engine_name": "PhishFort",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "PhishLabs": {
+                "method": "blacklist",
+                "engine_name": "PhishLabs",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Phishtank": {
+                "method": "blacklist",
+                "engine_name": "Phishtank",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PREBYTES": {
+                "method": "blacklist",
+                "engine_name": "PREBYTES",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PrecisionSec": {
+                "method": "blacklist",
+                "engine_name": "PrecisionSec",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Quick Heal": {
+                "method": "blacklist",
+                "engine_name": "Quick Heal",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Quttera": {
+                "method": "blacklist",
+                "engine_name": "Quttera",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SafeToOpen": {
+                "method": "blacklist",
+                "engine_name": "SafeToOpen",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Sansec eComscan": {
+                "method": "blacklist",
+                "engine_name": "Sansec eComscan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Scantitan": {
+                "method": "blacklist",
+                "engine_name": "Scantitan",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SCUMWARE.org": {
+                "method": "blacklist",
+                "engine_name": "SCUMWARE.org",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Seclookup": {
+                "method": "blacklist",
+                "engine_name": "Seclookup",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SecureBrain": {
+                "method": "blacklist",
+                "engine_name": "SecureBrain",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "SOCRadar": {
+                "method": "blacklist",
+                "engine_name": "SOCRadar",
+                "category": "malicious",
+                "result": "malware"
+            },
+            "Sophos": {
+                "method": "blacklist",
+                "engine_name": "Sophos",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Spam404": {
+                "method": "blacklist",
+                "engine_name": "Spam404",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "StopForumSpam": {
+                "method": "blacklist",
+                "engine_name": "StopForumSpam",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Sucuri SiteCheck": {
+                "method": "blacklist",
+                "engine_name": "Sucuri SiteCheck",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ThreatHive": {
+                "method": "blacklist",
+                "engine_name": "ThreatHive",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Trustwave": {
+                "method": "blacklist",
+                "engine_name": "Trustwave",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "URLhaus": {
+                "method": "blacklist",
+                "engine_name": "URLhaus",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "URLQuery": {
+                "method": "blacklist",
+                "engine_name": "URLQuery",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Viettel Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Viettel Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "VIPRE": {
+                "method": "blacklist",
+                "engine_name": "VIPRE",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "VX Vault": {
+                "method": "blacklist",
+                "engine_name": "VX Vault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ViriBack": {
+                "method": "blacklist",
+                "engine_name": "ViriBack",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Webroot": {
+                "method": "blacklist",
+                "engine_name": "Webroot",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Yandex Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Yandex Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ZeroCERT": {
+                "method": "blacklist",
+                "engine_name": "ZeroCERT",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "desenmascara.me": {
+                "method": "blacklist",
+                "engine_name": "desenmascara.me",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "malwares.com URL checker": {
+                "method": "blacklist",
+                "engine_name": "malwares.com URL checker",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "securolytics": {
+                "method": "blacklist",
+                "engine_name": "securolytics",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Xcitium Verdict Cloud": {
+                "method": "blacklist",
+                "engine_name": "Xcitium Verdict Cloud",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ZeroFox": {
+                "method": "blacklist",
+                "engine_name": "ZeroFox",
+                "category": "undetected",
+                "result": "unrated"
+            }
+        },
+        "whois_date": 1768874526,
+        "regional_internet_registry": "ARIN",
+        "total_votes": {
+            "harmless": 0,
+            "malicious": 1
+        },
+        "asn": 14061,
+        "reputation": -1,
+        "whois": "NetRange: 138.197.0.0 - 138.197.255.255\nCIDR: 138.197.0.0/16\nNetName: DIGITALOCEAN-138-197-0-0\nNetHandle: NET-138-197-0-0-1\nParent: NET138 (NET-138-0-0-0-0)\nNetType: Direct Allocation\nOriginAS: \nOrganization: DigitalOcean, LLC (DO-13)\nRegDate: 2016-01-26\nUpdated: 2020-04-03\nComment: Routing and Peering Policy can be found at https://www.as14061.net\nComment: \nComment: Please submit abuse reports at https://www.digitalocean.com/company/contact/#abuse\nRef: https://rdap.arin.net/registry/ip/138.197.0.0\nOrgName: DigitalOcean, LLC\nOrgId: DO-13\nAddress: 105 Edgeview Drive, Suite 425\nCity: Broomfield\nStateProv: CO\nPostalCode: 80021\nCountry: US\nRegDate: 2012-05-14\nUpdated: 2025-04-11\nRef: https://rdap.arin.net/registry/entity/DO-13\nOrgNOCHandle: NOC32014-ARIN\nOrgNOCName: Network Operations Center\nOrgNOCPhone: +1-646-827-4366 \nOrgNOCEmail: noc@digitalocean.com\nOrgNOCRef: https://rdap.arin.net/registry/entity/NOC32014-ARIN\nOrgAbuseHandle: DIGIT19-ARIN\nOrgAbuseName: DigitalOcean Abuse\nOrgAbusePhone: +1-646-827-4366 \nOrgAbuseEmail: abuse@digitalocean.com\nOrgAbuseRef: https://rdap.arin.net/registry/entity/DIGIT19-ARIN\nOrgTechHandle: NOC32014-ARIN\nOrgTechName: Network Operations Center\nOrgTechPhone: +1-646-827-4366 \nOrgTechEmail: noc@digitalocean.com\nOrgTechRef: https://rdap.arin.net/registry/entity/NOC32014-ARIN\n",
+        "last_analysis_date": 1769230425,
+        "last_https_certificate": {
+            "size": 1327,
+            "public_key": {
+                "rsa": {
+                    "key_size": 2048,
+                    "modulus": "00abb5bd0aad1728266de39b37e8d3bda0ad0d28136603fa4fab39a8694b8e7f6c62e9cc54515debd6bd5092a89decb7a93ff6b5c87ba5117293fc23d30be1328ec181ed3685956cc54eab91890fbaa7ce137d55e7c26347530f288987aa98a5fd680e51175bdb74a863ebebdd07c5c1e66775f527237bdfecb19259cef4bafd98909697a916d58b349946da11ee1a93bf115c00cd708361098bd41b6b36d8961696abfc895f413d6a0ecd3123a9f3b910c5c86676f0eb6e24f624fe2f7918917c40d4bb56473fb0ba760fa270d186dcaadbee77a7eeee73645d1a8cc4cf6341dfd1ca7deee1dd2cb187656f2d08d6a382d131fa55c8110dc40eaeba83b20d704b",
+                    "exponent": "010001"
+                },
+                "algorithm": "RSA"
+            },
+            "thumbprint_sha256": "73e8ac84be78a78ca5c55b33c1533c91ac98beda408d20d71fa23a14fbddae8f",
+            "tags": [],
+            "cert_signature": {
+                "signature_algorithm": "sha256RSA",
+                "signature": "90fb6b2dcb864e501a1fb98b7e45ff4f413b00b3167fb1342293c1b36168b34e7a82c26f0d2597635bda4f1462bb95f6aed451a3aa6cc1edf01f6ef7556dbb1bd09933c2e98c020626b4f13bb8cf579ccd355181484174f6ffe8f840f80b84dabb02451e39ee8d33f5c1c43ac5b1f728066d7140f2b20aa41fed0dd12dd08b7e233b9bd2e349f937e97871750c068c6f557023474e23df4550d3c20cd571180ff32ba4b535adec059eecf79ab8a12890c62a1080315660110f3956a5321f3704b78bb8c5dc7f4b4d3bf720680439642a9aba6b791b0c29c6091bb7baa23daf59d9a3090530836eb0015b5270744ff84334a04db692ec07dd221cb710e6f26985"
+            },
+            "validity": {
+                "not_after": "2023-02-17 18:49:01",
+                "not_before": "2022-11-19 18:49:02"
+            },
+            "version": "V3",
+            "extensions": {
+                "certificate_policies": [
+                    "2.23.140.1.2.1",
+                    "1.3.6.1.4.1.44947.1.1.1"
+                ],
+                "extended_key_usage": [
+                    "serverAuth",
+                    "clientAuth"
+                ],
+                "tags": [],
+                "subject_alternative_name": [
+                    "app02.swimprod3.com"
+                ],
+                "authority_key_identifier": {
+                    "keyid": "142eb317b75856cbae500940e61faf9d8b14c2c6"
+                },
+                "ca_information_access": {
+                    "CA Issuers": "http://r3.i.lencr.org/",
+                    "OCSP": "http://r3.o.lencr.org"
+                },
+                "subject_key_identifier": "6a86fb2841a219484f5681c0df895c08b4088b58",
+                "key_usage": [
+                    "ff"
+                ],
+                "1.3.6.1.4.1.11129.2.4.2": "0481f100ef0076007a328c54d8b72db620ea38e0521ee98416703213854d3bd2",
+                "CA": true
+            },
+            "signature_algorithm": "sha256RSA",
+            "serial_number": "03dec506296b9c38011bdeb628fee484c84b",
+            "thumbprint": "afb86324f2921219968208557493fb8baa6d6e91",
+            "issuer": {
+                "C": "US",
+                "CN": "R3",
+                "O": "Let's Encrypt"
+            },
+            "subject": {
+                "CN": "app02.swimprod3.com"
+            }
+        },
+        "tags": [],
+        "network": "138.197.128.0/18",
+        "last_analysis_stats": {
+            "malicious": 4,
+            "suspicious": 2,
+            "undetected": 28,
+            "harmless": 59,
+            "timeout": 0
+        },
+        "rdap": {
+            "object_class_name": "ip network",
+            "handle": "NET-138-197-0-0-1",
+            "start_address": "138.197.0.0",
+            "end_address": "138.197.255.255",
+            "ip_version": "v4",
+            "name": "DIGITALOCEAN-138-197-0-0",
+            "type": "DIRECT ALLOCATION",
+            "parent_handle": "NET-138-0-0-0-0",
+            "status": [
+                "active"
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.arin.net/registry/ip/138.197.0.0",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                    "title": "",
+                    "media": "",
+                    "href_lang": []
+                },
+                {
+                    "href": "https://whois.arin.net/rest/net/NET-138-197-0-0-1",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                    "title": "",
+                    "media": "",
+                    "href_lang": []
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Terms of Service",
+                    "description": [
+                        "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.arin.net/resources/registry/whois/tou/",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "type": ""
+                },
+                {
+                    "title": "Whois Inaccuracy Reporting",
+                    "description": [
+                        "If you see inaccuracies in the results, please visit: "
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/",
+                            "rel": "inaccuracy-report",
+                            "type": "text/html",
+                            "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "type": ""
+                },
+                {
+                    "title": "Copyright Notice",
+                    "description": [
+                        "Copyright 1997-2026, American Registry for Internet Numbers, Ltd."
+                    ],
+                    "links": [],
+                    "type": ""
+                }
+            ],
+            "events": [
+                {
+                    "event_action": "last changed",
+                    "event_date": "2020-04-03T14:03:53-04:00",
+                    "event_actor": "",
+                    "links": []
+                },
+                {
+                    "event_action": "registration",
+                    "event_date": "2016-01-26T08:51:21-05:00",
+                    "event_actor": "",
+                    "links": []
+                }
+            ],
+            "rdap_conformance": [
+                "nro_rdap_profile_0",
+                "rdap_level_0",
+                "cidr0",
+                "arin_originas0"
+            ],
+            "entities": [
+                {
+                    "object_class_name": "entity",
+                    "handle": "DO-13",
+                    "vcard_array": [
+                        {
+                            "name": "version",
+                            "type": "text",
+                            "values": [
+                                "4.0"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "fn",
+                            "type": "text",
+                            "values": [
+                                "DigitalOcean, LLC"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "adr",
+                            "parameters": {
+                                "label": [
+                                    "105 Edgeview Drive, Suite 425\nBroomfield\nCO\n80021\nUnited States"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": "kind",
+                            "type": "text",
+                            "values": [
+                                "org"
+                            ],
+                            "parameters": {}
+                        }
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "entities": [
+                        {
+                            "object_class_name": "entity",
+                            "handle": "DIGIT19-ARIN",
+                            "vcard_array": [
+                                {
+                                    "name": "version",
+                                    "type": "text",
+                                    "values": [
+                                        "4.0"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "adr",
+                                    "parameters": {
+                                        "label": [
+                                            "105 Edgeview Drive, Suite 425\nBroomfield\nCO\n80021\nUnited States"
+                                        ]
+                                    },
+                                    "type": "text",
+                                    "values": [
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ]
+                                },
+                                {
+                                    "name": "fn",
+                                    "type": "text",
+                                    "values": [
+                                        "DigitalOcean Abuse"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "org",
+                                    "type": "text",
+                                    "values": [
+                                        "DigitalOcean Abuse"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "kind",
+                                    "type": "text",
+                                    "values": [
+                                        "group"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "email",
+                                    "type": "text",
+                                    "values": [
+                                        "abuse@digitalocean.com"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "tel",
+                                    "parameters": {
+                                        "type": [
+                                            "work",
+                                            "voice"
+                                        ]
+                                    },
+                                    "type": "text",
+                                    "values": [
+                                        "+1-646-827-4366"
+                                    ]
+                                }
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.arin.net/registry/entity/DIGIT19-ARIN",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                                    "title": "",
+                                    "media": "",
+                                    "href_lang": []
+                                },
+                                {
+                                    "href": "https://whois.arin.net/rest/poc/DIGIT19-ARIN",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                                    "title": "",
+                                    "media": "",
+                                    "href_lang": []
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "event_action": "last changed",
+                                    "event_date": "2025-04-11T15:02:45-04:00",
+                                    "event_actor": "",
+                                    "links": []
+                                },
+                                {
+                                    "event_action": "registration",
+                                    "event_date": "2025-04-11T15:02:45-04:00",
+                                    "event_actor": "",
+                                    "links": []
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "public_ids": [],
+                            "entities": [],
+                            "remarks": [],
+                            "as_event_actor": [],
+                            "networks": [],
+                            "autnums": [],
+                            "url": "",
+                            "lang": "",
+                            "rdap_conformance": []
+                        },
+                        {
+                            "object_class_name": "entity",
+                            "handle": "NOC32014-ARIN",
+                            "vcard_array": [
+                                {
+                                    "name": "version",
+                                    "type": "text",
+                                    "values": [
+                                        "4.0"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "adr",
+                                    "parameters": {
+                                        "label": [
+                                            "105 Edgeview Drive, Suite 425\nBroomfield\nCO\n80021\nUnited States"
+                                        ]
+                                    },
+                                    "type": "text",
+                                    "values": [
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ]
+                                },
+                                {
+                                    "name": "fn",
+                                    "type": "text",
+                                    "values": [
+                                        "Network Operations Center"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "org",
+                                    "type": "text",
+                                    "values": [
+                                        "Network Operations Center"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "kind",
+                                    "type": "text",
+                                    "values": [
+                                        "group"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "email",
+                                    "type": "text",
+                                    "values": [
+                                        "noc@digitalocean.com"
+                                    ],
+                                    "parameters": {}
+                                },
+                                {
+                                    "name": "tel",
+                                    "parameters": {
+                                        "type": [
+                                            "work",
+                                            "voice"
+                                        ]
+                                    },
+                                    "type": "text",
+                                    "values": [
+                                        "+1-646-827-4366"
+                                    ]
+                                }
+                            ],
+                            "roles": [
+                                "noc",
+                                "technical",
+                                "administrative"
+                            ],
+                            "links": [
+                                {
+                                    "href": "https://rdap.arin.net/registry/entity/NOC32014-ARIN",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                                    "title": "",
+                                    "media": "",
+                                    "href_lang": []
+                                },
+                                {
+                                    "href": "https://whois.arin.net/rest/poc/NOC32014-ARIN",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                                    "title": "",
+                                    "media": "",
+                                    "href_lang": []
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "event_action": "last changed",
+                                    "event_date": "2025-04-11T13:46:05-04:00",
+                                    "event_actor": "",
+                                    "links": []
+                                },
+                                {
+                                    "event_action": "registration",
+                                    "event_date": "2014-08-22T13:35:41-04:00",
+                                    "event_actor": "",
+                                    "links": []
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "public_ids": [],
+                            "entities": [],
+                            "remarks": [],
+                            "as_event_actor": [],
+                            "networks": [],
+                            "autnums": [],
+                            "url": "",
+                            "lang": "",
+                            "rdap_conformance": []
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.arin.net/registry/entity/DO-13",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        },
+                        {
+                            "href": "https://whois.arin.net/rest/org/DO-13",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "value": "https://rdap.arin.net/registry/ip/138.197.150.62",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "events": [
+                        {
+                            "event_action": "last changed",
+                            "event_date": "2025-04-11T15:10:30-04:00",
+                            "event_actor": "",
+                            "links": []
+                        },
+                        {
+                            "event_action": "registration",
+                            "event_date": "2012-05-14T11:59:42-04:00",
+                            "event_actor": "",
+                            "links": []
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "public_ids": [],
+                    "remarks": [],
+                    "as_event_actor": [],
+                    "status": [],
+                    "networks": [],
+                    "autnums": [],
+                    "url": "",
+                    "lang": "",
+                    "rdap_conformance": []
+                }
+            ],
+            "port43": "whois.arin.net",
+            "cidr0_cidrs": [
+                {
+                    "v4prefix": "138.197.0.0",
+                    "length": 16,
+                    "v6prefix": ""
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "Routing and Peering Policy can be found at https://www.as14061.net",
+                        "",
+                        "Please submit abuse reports at https://www.digitalocean.com/company/contact/#abuse"
+                    ],
+                    "links": [],
+                    "type": ""
+                }
+            ],
+            "country": "",
+            "arin_originas0_originautnums": []
+        },
+        "as_owner": "DIGITALOCEAN-ASN"
+    },
+    "id": "138.197.150.62"
+}

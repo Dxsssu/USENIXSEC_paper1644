@@ -1,0 +1,651 @@
+{
+    "type": "ip_address",
+    "attributes": {
+        "reputation": -55,
+        "last_modification_date": 1769946096,
+        "network": "170.239.140.0/22",
+        "as_owner": "REDE BJNET TELECOMUNICACOES LTDA-ME",
+        "last_analysis_results": {
+            "Acronis": {
+                "method": "blacklist",
+                "engine_name": "Acronis",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "0xSI_f33d": {
+                "method": "blacklist",
+                "engine_name": "0xSI_f33d",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Abusix": {
+                "method": "blacklist",
+                "engine_name": "Abusix",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ADMINUSLabs": {
+                "method": "blacklist",
+                "engine_name": "ADMINUSLabs",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Axur": {
+                "method": "blacklist",
+                "engine_name": "Axur",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ChainPatrol": {
+                "method": "blacklist",
+                "engine_name": "ChainPatrol",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Criminal IP": {
+                "method": "blacklist",
+                "engine_name": "Criminal IP",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "AILabs (MONITORAPP)": {
+                "method": "blacklist",
+                "engine_name": "AILabs (MONITORAPP)",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "AlienVault": {
+                "method": "blacklist",
+                "engine_name": "AlienVault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "alphaMountain.ai": {
+                "method": "blacklist",
+                "engine_name": "alphaMountain.ai",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AlphaSOC": {
+                "method": "blacklist",
+                "engine_name": "AlphaSOC",
+                "category": "suspicious",
+                "result": "suspicious"
+            },
+            "Antiy-AVL": {
+                "method": "blacklist",
+                "engine_name": "Antiy-AVL",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ArcSight Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "ArcSight Threat Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AutoShun": {
+                "method": "blacklist",
+                "engine_name": "AutoShun",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "benkow.cc": {
+                "method": "blacklist",
+                "engine_name": "benkow.cc",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bfore.Ai PreCrime": {
+                "method": "blacklist",
+                "engine_name": "Bfore.Ai PreCrime",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "BitDefender": {
+                "method": "blacklist",
+                "engine_name": "BitDefender",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bkav": {
+                "method": "blacklist",
+                "engine_name": "Bkav",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Blueliv": {
+                "method": "blacklist",
+                "engine_name": "Blueliv",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Certego": {
+                "method": "blacklist",
+                "engine_name": "Certego",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Chong Lua Dao": {
+                "method": "blacklist",
+                "engine_name": "Chong Lua Dao",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CINS Army": {
+                "method": "blacklist",
+                "engine_name": "CINS Army",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cluster25": {
+                "method": "blacklist",
+                "engine_name": "Cluster25",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "CRDF": {
+                "method": "blacklist",
+                "engine_name": "CRDF",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "CSIS Security Group": {
+                "method": "blacklist",
+                "engine_name": "CSIS Security Group",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Snort IP sample list": {
+                "method": "blacklist",
+                "engine_name": "Snort IP sample list",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CMC Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "CMC Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cyan": {
+                "method": "blacklist",
+                "engine_name": "Cyan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Cyble": {
+                "method": "blacklist",
+                "engine_name": "Cyble",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "CyRadar": {
+                "method": "blacklist",
+                "engine_name": "CyRadar",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "DNS8": {
+                "method": "blacklist",
+                "engine_name": "DNS8",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Dr.Web": {
+                "method": "blacklist",
+                "engine_name": "Dr.Web",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Ermes": {
+                "method": "blacklist",
+                "engine_name": "Ermes",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ESET": {
+                "method": "blacklist",
+                "engine_name": "ESET",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ESTsecurity": {
+                "method": "blacklist",
+                "engine_name": "ESTsecurity",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "EmergingThreats": {
+                "method": "blacklist",
+                "engine_name": "EmergingThreats",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Emsisoft": {
+                "method": "blacklist",
+                "engine_name": "Emsisoft",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Forcepoint ThreatSeeker": {
+                "method": "blacklist",
+                "engine_name": "Forcepoint ThreatSeeker",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Fortinet": {
+                "method": "blacklist",
+                "engine_name": "Fortinet",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "G-Data": {
+                "method": "blacklist",
+                "engine_name": "G-Data",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GCP Abuse Intelligence": {
+                "method": "blacklist",
+                "engine_name": "GCP Abuse Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Google Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Google Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreenSnow": {
+                "method": "blacklist",
+                "engine_name": "GreenSnow",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreyNoise": {
+                "method": "blacklist",
+                "engine_name": "GreyNoise",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "Gridinsoft": {
+                "method": "blacklist",
+                "engine_name": "Gridinsoft",
+                "category": "suspicious",
+                "result": "suspicious"
+            },
+            "Heimdal Security": {
+                "method": "blacklist",
+                "engine_name": "Heimdal Security",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Hunt.io Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Hunt.io Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "IPsum": {
+                "method": "blacklist",
+                "engine_name": "IPsum",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Juniper Networks": {
+                "method": "blacklist",
+                "engine_name": "Juniper Networks",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Kaspersky": {
+                "method": "blacklist",
+                "engine_name": "Kaspersky",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Lionic": {
+                "method": "blacklist",
+                "engine_name": "Lionic",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "Lumu": {
+                "method": "blacklist",
+                "engine_name": "Lumu",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "MalwarePatrol": {
+                "method": "blacklist",
+                "engine_name": "MalwarePatrol",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "MalwareURL": {
+                "method": "blacklist",
+                "engine_name": "MalwareURL",
+                "category": "malicious",
+                "result": "malware"
+            },
+            "Malwared": {
+                "method": "blacklist",
+                "engine_name": "Malwared",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Mimecast": {
+                "method": "blacklist",
+                "engine_name": "Mimecast",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Netcraft": {
+                "method": "blacklist",
+                "engine_name": "Netcraft",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "OpenPhish": {
+                "method": "blacklist",
+                "engine_name": "OpenPhish",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Phishing Database": {
+                "method": "blacklist",
+                "engine_name": "Phishing Database",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PhishFort": {
+                "method": "blacklist",
+                "engine_name": "PhishFort",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "PhishLabs": {
+                "method": "blacklist",
+                "engine_name": "PhishLabs",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Phishtank": {
+                "method": "blacklist",
+                "engine_name": "Phishtank",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PREBYTES": {
+                "method": "blacklist",
+                "engine_name": "PREBYTES",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PrecisionSec": {
+                "method": "blacklist",
+                "engine_name": "PrecisionSec",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Quick Heal": {
+                "method": "blacklist",
+                "engine_name": "Quick Heal",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Quttera": {
+                "method": "blacklist",
+                "engine_name": "Quttera",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SafeToOpen": {
+                "method": "blacklist",
+                "engine_name": "SafeToOpen",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Sansec eComscan": {
+                "method": "blacklist",
+                "engine_name": "Sansec eComscan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Scantitan": {
+                "method": "blacklist",
+                "engine_name": "Scantitan",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SCUMWARE.org": {
+                "method": "blacklist",
+                "engine_name": "SCUMWARE.org",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Seclookup": {
+                "method": "blacklist",
+                "engine_name": "Seclookup",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SecureBrain": {
+                "method": "blacklist",
+                "engine_name": "SecureBrain",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "SOCRadar": {
+                "method": "blacklist",
+                "engine_name": "SOCRadar",
+                "category": "malicious",
+                "result": "malware"
+            },
+            "Sophos": {
+                "method": "blacklist",
+                "engine_name": "Sophos",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Spam404": {
+                "method": "blacklist",
+                "engine_name": "Spam404",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "StopForumSpam": {
+                "method": "blacklist",
+                "engine_name": "StopForumSpam",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Sucuri SiteCheck": {
+                "method": "blacklist",
+                "engine_name": "Sucuri SiteCheck",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ThreatHive": {
+                "method": "blacklist",
+                "engine_name": "ThreatHive",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Trustwave": {
+                "method": "blacklist",
+                "engine_name": "Trustwave",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "URLhaus": {
+                "method": "blacklist",
+                "engine_name": "URLhaus",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "URLQuery": {
+                "method": "blacklist",
+                "engine_name": "URLQuery",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Viettel Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Viettel Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "VIPRE": {
+                "method": "blacklist",
+                "engine_name": "VIPRE",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "VX Vault": {
+                "method": "blacklist",
+                "engine_name": "VX Vault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ViriBack": {
+                "method": "blacklist",
+                "engine_name": "ViriBack",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Webroot": {
+                "method": "blacklist",
+                "engine_name": "Webroot",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Yandex Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Yandex Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ZeroCERT": {
+                "method": "blacklist",
+                "engine_name": "ZeroCERT",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "desenmascara.me": {
+                "method": "blacklist",
+                "engine_name": "desenmascara.me",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "malwares.com URL checker": {
+                "method": "blacklist",
+                "engine_name": "malwares.com URL checker",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "securolytics": {
+                "method": "blacklist",
+                "engine_name": "securolytics",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Xcitium Verdict Cloud": {
+                "method": "blacklist",
+                "engine_name": "Xcitium Verdict Cloud",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ZeroFox": {
+                "method": "blacklist",
+                "engine_name": "ZeroFox",
+                "category": "undetected",
+                "result": "unrated"
+            }
+        },
+        "total_votes": {
+            "harmless": 0,
+            "malicious": 4
+        },
+        "last_https_certificate_date": 1654917527,
+        "last_https_certificate": {
+            "public_key": {
+                "rsa": {
+                    "key_size": 2048,
+                    "modulus": "00daaaec27fcac1300583f3fb98fd961654da5a258814118e489987890efbc6b7d9567aacf5b4d822a3b12547c7bdbd67af8b7980a3c34bfa81631e1e9c5f34186a180ecb4d8b8df3d4e52fa976217877a426417a7e6db39b2ec0941b74421d414e4b759b43280723fb72847d40fbf800ebcd25f7f701d4a67206ce3aca8ca2c32fa61a5d4b34d0abdfa035279e20b964d03e9633a909c3ce4cbe9242379e2665827e9650b46e1a9cd1e3f74950450167088b3b247a1860d4e37498971f8b9f4569aff4890fc900b2a99506cb5893b240b420bc8a0733ac106ec6f57d0fbe5bf1f8aca6a1964bc69cd6cdc461d4e695555184431ba84684c576d0899ecc6153955",
+                    "exponent": "010001"
+                },
+                "algorithm": "RSA"
+            },
+            "thumbprint_sha256": "898edbd54367d586e01094742b23bccd29fb50dfe1156744d86c8cefc9b79117",
+            "tags": [],
+            "signature_algorithm": "sha256RSA",
+            "subject": {
+                "CN": "redebjnet.net.br"
+            },
+            "validity": {
+                "not_after": "2022-09-09 02:11:43",
+                "not_before": "2022-06-11 02:11:44"
+            },
+            "version": "V3",
+            "extensions": {
+                "certificate_policies": [
+                    "2.23.140.1.2.1",
+                    "1.3.6.1.4.1.44947.1.1.1"
+                ],
+                "extended_key_usage": [
+                    "serverAuth",
+                    "clientAuth"
+                ],
+                "authority_key_identifier": {
+                    "keyid": "142eb317b75856cbae500940e61faf9d8b14c2c6"
+                },
+                "subject_alternative_name": [
+                    "redebjnet.net.br"
+                ],
+                "tags": [],
+                "subject_key_identifier": "04ad83e7fbe5869792a902829f321e0405eb1f07",
+                "key_usage": [
+                    "ff"
+                ],
+                "1.3.6.1.4.1.11129.2.4.2": "0481f200f00077006f5376ac31f03119d89900a45115ff77151c11d902c10029",
+                "CA": true,
+                "ca_information_access": {
+                    "CA Issuers": "http://r3.i.lencr.org/",
+                    "OCSP": "http://r3.o.lencr.org"
+                }
+            },
+            "cert_signature": {
+                "signature": "180f0033ac54f8402c289e1cf5f1e0e4460fa39396fb88964a78d9349977a5e618b4abf0e17c2d497e4589619c21ea05b9fae5f35e7a821743abb194bbb0302200451568e3889147e8bc9035e7ac3737fa1b83ca6cada9bdd78eede24cf3074fb94eb320292382b307036defac709c827fd3185a3e547cca14317e3f1eb38607fe682f0b4e8530dd564875651a41f6236335d599c39b999845168b1d4677ddc1899c646105042d0f89b23ed60f11787c7204b527bc0b8dfab66563327705f2e4f2886712fff5db656dd284d50a27a6ec45759ce913e4a39ab9c86bf19a7efc8b0d31e5db1b000ab78abee9305eb022d84eb7a8a58c7e4ec4ff15c703805e09bb",
+                "signature_algorithm": "sha256RSA"
+            },
+            "serial_number": "03d5f1c1a3e285721f32325a75ae65a1b1e3",
+            "thumbprint": "db8cfe6b4da009069ce0f70c9fac7299292c9c23",
+            "issuer": {
+                "C": "US",
+                "CN": "R3",
+                "O": "Let's Encrypt"
+            },
+            "size": 1322
+        },
+        "continent": "SA",
+        "whois_date": 1767882730,
+        "tags": [],
+        "asn": 266353,
+        "whois": " % Copyright (c) Nic.br - Use of this data is governed by the Use and\ninetnum: 170.239.140.0/22\naut-num: AS266353\nabuse-c: FRCAV9\nowner: REDE BJNET TELECOMUNICA��ES LTDA-ME\nownerid: 10.660.771/0001-69\nresponsible: REDE BJNET\ncountry: BR\nowner-c: FRCAV9\ntech-c: FRCAV9\ninetrev: 170.239.140.0/22\nnserver: dns1.redebjnet.com.br [lame - not published]\nnsstat: 20260108 QREFUSED\nnslastaa: 20230706\nnserver: dns2.redebjnet.com.br [lame - not published]\nnsstat: 20260108 QREFUSED\nnslastaa: 20230706\ncreated: 20161109\nchanged: 20161109\nnic-hdl-br: FRCAV9\nperson: Francisco Cavalcante\ne-mail: francavalcant@gmail.com\ncountry: BR\ncreated: 20100414\nchanged: 20140618\n",
+        "regional_internet_registry": "LACNIC",
+        "country": "BR",
+        "last_analysis_stats": {
+            "malicious": 8,
+            "suspicious": 2,
+            "undetected": 29,
+            "harmless": 54,
+            "timeout": 0
+        },
+        "jarm": "15d3fd16d29d29d00042d43d000000ed1cf37c9a169b41886e27ba8fad60b0",
+        "last_analysis_date": 1768070997
+    },
+    "id": "170.239.140.76"
+}

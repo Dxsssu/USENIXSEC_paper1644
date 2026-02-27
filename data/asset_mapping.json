@@ -1,0 +1,5912 @@
+[
+  {
+    "dip": "1.2.4.8",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国(39.902798/116.401159)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "10.0.144.51",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.0.144.52",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.10.0.203",
+    "dip_group": "未分配资产组",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.10.10.87",
+    "dip_group": "未分配资产组",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.101.101.8",
+    "dip_group": "网络设备接口网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网络设备接口网段"
+  },
+  {
+    "dip": "10.106.20.100",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.106.20.38",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.109.243.253",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.109.251.5",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.110.200.203",
+    "dip_group": "云创",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "云创"
+  },
+  {
+    "dip": "10.110.200.244",
+    "dip_group": "云创",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "云创"
+  },
+  {
+    "dip": "10.110.200.28",
+    "dip_group": "云创",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "云创"
+  },
+  {
+    "dip": "10.114.11.11",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.114.11.12",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.32.1",
+    "dip_group": "物理服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "物理服务器"
+  },
+  {
+    "dip": "10.115.32.2",
+    "dip_group": "物理服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "物理服务器"
+  },
+  {
+    "dip": "10.115.32.3",
+    "dip_group": "物理服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "物理服务器"
+  },
+  {
+    "dip": "10.115.33.1",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.33.11",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.33.2",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.33.21",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.33.3",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.33.84",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.48.23",
+    "dip_group": "物理服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "物理服务器"
+  },
+  {
+    "dip": "10.115.50.10",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.50.25",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.50.28",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.50.29",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.50.30",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.50.55",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.115.80.1",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.116.1.13",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.118.1.13",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.118.1.21",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.118.11.16",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.118.11.22",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.118.11.23",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.118.221.253",
+    "dip_group": "锐拓",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "锐拓"
+  },
+  {
+    "dip": "10.118.54.8",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.119.49.78",
+    "dip_group": "网络设备接口网段",
+    "dip_addr": "局域网",
+    "asset_group": "网络设备接口网段"
+  },
+  {
+    "dip": "10.122.165.162",
+    "dip_group": "网络设备接口网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网络设备接口网段"
+  },
+  {
+    "dip": "10.122.36.72",
+    "dip_group": "网络设备接口网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网络设备接口网段"
+  },
+  {
+    "dip": "10.123.128.25",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.123.128.60",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.123.128.69",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.123.128.96",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.125.0.241",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.125.0.247",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.125.1.1",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.125.11.185",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.125.67.132",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.125.71.18",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.125.78.186",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.127.1.183",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.2.166",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.2.189",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.2.2",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.2.75",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.3.91",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.4.2",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.9.31",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.127.9.32",
+    "dip_group": "集成服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成服务器"
+  },
+  {
+    "dip": "10.130.1.11",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.1.3",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.1.50",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.1.51",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.1.8",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.14.12",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.14.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.14.50",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.14.51",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.17.1",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.236.25",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.32.1",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.32.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.11",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.115",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.18",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.20",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.3",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.32",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.42",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.33.70",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.34.44",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.34.86",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.5.101",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.5.102",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.64.11",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.65.100",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.65.118",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.130.65.70",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.1",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.16",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.17",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.20",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.234",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.36",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.37",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.38",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.1.4",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.2.111",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.2.112",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.2.113",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.2.50",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.244.16",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.4.1",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.131.4.6",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.4.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.4.8",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.47.14",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.47.232",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.47.3",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.131.47.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.132.0.116",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.117",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.118",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.119",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.120",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.193",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.51",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.69",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.71",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.74",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.0.75",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.104",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.143",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.151",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.152",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.153",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.154",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.187",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.188",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.189",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.190",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.193",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.194",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.195",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.201",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.236",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.40",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.41",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.42",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.43",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.49",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.50",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.1.92",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.104.3",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.143.2",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.146.40",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.197.2",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.198.10",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.198.2",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.1",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.113",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.126",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.13",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.14",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.15",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.18",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.188",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.240",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.26",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.27",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.28",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.29",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.3",
+    "dip_group": "未知资产组",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "未知资产组"
+  },
+  {
+    "dip": "10.132.2.53",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.54",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.55",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.56",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.57",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.63",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.67",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.2.79",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.208.11",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.208.14",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.208.18",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.208.2",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.208.5",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.233.9",
+    "dip_group": "SSLVPN或atrust",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "SSLVPN或atrust"
+  },
+  {
+    "dip": "10.132.236.21",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.236.22",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.236.3",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.236.7",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.236.83",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.236.86",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.237.230",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.237.233",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.237.34",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.237.46",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.237.61",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.244.231",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.244.25",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.10",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.100",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.104",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.108",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.109",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.114",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.139",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.146",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.152",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.153",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.154",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.17",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.188",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.23",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.231",
+    "dip_group": "无线网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "10.132.3.24",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.25",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.34",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.4",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.41",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.45",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.46",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.55",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.59",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.60",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.62",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.65",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.132.3.73",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.91",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.93",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.94",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.3.97",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.11",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.12",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.13",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.20",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.21",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.3",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.4",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.49",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.5",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.4.77",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.48.1",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.48.11",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.48.2",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.48.240",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.49.1",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.5.240",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.100",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.12",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.2",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.25",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.39",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.47",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.53",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.58",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.50.64",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.52.11",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.52.13",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.8.2",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.8.5",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.8.50",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.94.39",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.96.15",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.99.103",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.99.201",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.99.30",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.99.45",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.132.99.78",
+    "dip_group": "FitOS",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "10.134.23.242",
+    "dip_group": "网络设备接口网段",
+    "dip_addr": "局域网",
+    "asset_group": "网络设备接口网段"
+  },
+  {
+    "dip": "10.137.128.131",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.128.134",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.128.136",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.128.137",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.138.1",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.138.101",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.138.102",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.138.105",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.138.106",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.138.111",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.138.38",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.140.160",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.137.140.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.137.140.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.137.4.52",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.142.0.10",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.12",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.13",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.130",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.131",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.133",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.134",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.135",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.136",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.137",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.138",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.139",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.14",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.140",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.141",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.142",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.143",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.144",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.145",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.17",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.18",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.19",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.20",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.22",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.23",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.26",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.3",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.30",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.33",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.34",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.4",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.42",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.43",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.44",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.51",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.6",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.0.9",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.10",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.17",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.3",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.33",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.36",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.4",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.40",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.49",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.50",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.6",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.65",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.81",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.83",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.1.97",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.1",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.12",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.13",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.14",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.15",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.2",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.26",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.27",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.6",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.8",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.2.9",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.250.11",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.251.13",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.252.2",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.252.5",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.142.252.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.15.8.103",
+    "dip_group": "集团间防火墙",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集团间防火墙"
+  },
+  {
+    "dip": "10.150.0.130",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.133",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.138",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.14",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.151",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.17",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.18",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.190",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.192",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.195",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.200",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.210",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.211",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.3",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.0.4",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.1.147",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.1.154",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.1.180",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.1.181",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.1.200",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.1.59",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.102",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.129",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.168",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.174",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.175",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.181",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.191",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.202",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.2.203",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.25.2",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.25.40",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.25.44",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.25.49",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.25.52",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.150.25.54",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.158.247.171",
+    "dip_group": "网络设备接口网段",
+    "dip_addr": "局域网",
+    "asset_group": "网络设备接口网段"
+  },
+  {
+    "dip": "10.16.16.25",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.16.16.29",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.16.253.103",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.16.253.14",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.16.3.122",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.16.8.26",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.16.80.1",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.16.80.4",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.160.10.16",
+    "dip_group": "飞思灵实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "飞思灵实验室"
+  },
+  {
+    "dip": "10.160.30.100",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.121",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.125",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.139",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.149",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.161",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.205",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.227",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.246",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.86",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.30.87",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.50.124",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.50.126",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.50.193",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.160.66.127",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.17.0.101",
+    "dip_group": "FitPC服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitPC服务器"
+  },
+  {
+    "dip": "10.17.0.72",
+    "dip_group": "SSLVPN或atrust",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "SSLVPN或atrust"
+  },
+  {
+    "dip": "10.17.144.11",
+    "dip_group": "FitPC服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitPC服务器"
+  },
+  {
+    "dip": "10.170.150.138",
+    "dip_group": "公研实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "公研实验室"
+  },
+  {
+    "dip": "10.170.9.68",
+    "dip_group": "公研实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "公研实验室"
+  },
+  {
+    "dip": "10.171.24.55",
+    "dip_group": "公研实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "公研实验室"
+  },
+  {
+    "dip": "10.171.240.11",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.171.240.147",
+    "dip_group": "公研实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "公研实验室"
+  },
+  {
+    "dip": "10.171.240.202",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.171.240.207",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.171.240.221",
+    "dip_group": "公研实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "公研实验室"
+  },
+  {
+    "dip": "10.171.240.244",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.18.1.104",
+    "dip_group": "FitPC涉密",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitPC涉密"
+  },
+  {
+    "dip": "10.18.1.105",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.18.1.111",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.18.1.112",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.18.12.1",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.182.15.34",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.15.38",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.15.45",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.16.2",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.16.21",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.16.25",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.16.33",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.16",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.2",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.206",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.27",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.35",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.4",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.45",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.48",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.17.59",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.100",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.11",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.114",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.135",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.144",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.149",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.23",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.244",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.247",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.251",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.29",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.39",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.43",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.57",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.6",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.60",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.70",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.84",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.92",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.18.94",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.24.24",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.24.25",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.47.102",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.48.123",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.182.58.236",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.19.10.101",
+    "dip_group": "关东研发中心服务器1",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器1"
+  },
+  {
+    "dip": "10.19.8.10",
+    "dip_group": "关东研发中心服务器1",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器1"
+  },
+  {
+    "dip": "10.19.8.101",
+    "dip_group": "关东研发中心服务器1",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器1"
+  },
+  {
+    "dip": "10.19.8.11",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.190.100.33",
+    "dip_group": "网产实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产实验室"
+  },
+  {
+    "dip": "10.190.102.135",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.106.106",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.106.139",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.107.112",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.108.111",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.109.101",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.11.163",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.11.67",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.110.80",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.112.183",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.112.95",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.113.119",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.113.19",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.113.41",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.124.56",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.14.16",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.144.203",
+    "dip_group": "未分配资产组",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.190.15.177",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.15.238",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.15.91",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.155.71",
+    "dip_group": "网产实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产实验室"
+  },
+  {
+    "dip": "10.190.158.51",
+    "dip_group": "网产实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产实验室"
+  },
+  {
+    "dip": "10.190.211.101",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.211.49",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.5.77",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.79.22",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.8.203",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.91.214",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.91.229",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.96.231",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.190.97.230",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.197.254.1",
+    "dip_group": "行网-国内市场总部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "行网-国内市场总部"
+  },
+  {
+    "dip": "10.197.254.2",
+    "dip_group": "行网-国内市场总部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "行网-国内市场总部"
+  },
+  {
+    "dip": "10.199.101.202",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.199.101.204",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.199.101.208",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.199.101.225",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.199.101.232",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.199.101.233",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.199.103.1",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.199.134.190",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "10.207.151.7",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.207.50.235",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.207.50.243",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "10.21.20.100",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.21.20.101",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.21.20.35",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.21.20.4",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.21.20.47",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.21.20.6",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.21.20.64",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.216.2.20",
+    "dip_group": "FitPC非涉密",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "FitPC非涉密"
+  },
+  {
+    "dip": "10.217.128.21",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.218.35.100",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.218.48.3",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.218.49.23",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.218.64.20",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.219.33.27",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.219.35.64",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.22.0.199",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.220.242.187",
+    "dip_group": "线缆部",
+    "dip_addr": "局域网",
+    "asset_group": "线缆部"
+  },
+  {
+    "dip": "10.23.100.201",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.23.155.140",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.23.155.185",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.23.20.100",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.23.20.123",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.23.20.43",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.23.65.35",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.24.20.95",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.25.22.100",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.25.22.8",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.25.65.105",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.26.26.110",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.31.141.205",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.125.12",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.127.101",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.127.2",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.127.21",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.131.1",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.131.101",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.131.12",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.131.6",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.152.17",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.157.102",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.240.179",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.242.50",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.242.60",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.32.242.7",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.33.142.210",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.33.143.20",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.33.144.17",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.33.244.173",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.33.244.195",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.33.245.200",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.33.245.76",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.34.1.10",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.34.1.102",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.34.1.11",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.34.1.17",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.34.1.18",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.34.1.8",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.23.1",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.23.109",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.23.116",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.23.117",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.23.5",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.23.6",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.37.122",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.38.101",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.38.111",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.38.119",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.35.38.13",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.19.116",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.19.120",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.19.124",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.19.132",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.19.17",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.20.104",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.20.131",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.22.110",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.22.127",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.23.104",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.240.196",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.240.211",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.240.247",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.241.3",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.242.164",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.242.22",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.242.85",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.25.102",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.26.101",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.26.132",
+    "dip_group": "高新6号楼",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新6号楼"
+  },
+  {
+    "dip": "10.36.26.141",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.27.118",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.27.21",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.36.28.221",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.37.25.237",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.37.29.201",
+    "dip_group": "关东办公网",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东办公网"
+  },
+  {
+    "dip": "10.37.37.231",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.37.40.30",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.37.42.4",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.37.44.108",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.37.47.5",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.37.60.251",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.38.1.100",
+    "dip_group": "办公网平台区域",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "办公网平台区域"
+  },
+  {
+    "dip": "10.38.1.101",
+    "dip_group": "办公网平台区域",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "办公网平台区域"
+  },
+  {
+    "dip": "10.38.1.66",
+    "dip_group": "办公网平台区域",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "办公网平台区域"
+  },
+  {
+    "dip": "10.38.1.67",
+    "dip_group": "办公网平台区域",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "办公网平台区域"
+  },
+  {
+    "dip": "10.38.1.68",
+    "dip_group": "办公网平台区域",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "办公网平台区域"
+  },
+  {
+    "dip": "10.38.1.73",
+    "dip_group": "办公网平台区域",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "办公网平台区域"
+  },
+  {
+    "dip": "10.39.130.109",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.130.115",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.130.161",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.130.214",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.130.217",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.130.229",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.131.117",
+    "dip_group": "无线网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "10.39.131.149",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.131.162",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.131.207",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.131.211",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.131.217",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.131.244",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.131.68",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.132.13",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.132.154",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.132.184",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.132.249",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.132.252",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.132.81",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.0",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.120",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.22",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.35",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.6",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.65",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.67",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.133.74",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.2.117",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.2.53",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.1",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.108",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.141",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.166",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.173",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.193",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.216",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.22",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.221",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.227",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.245",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.252",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.27",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.50",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.62",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.71",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.75",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.92",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.3.98",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.34.112",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.34.16",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.34.176",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.34.177",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.34.201",
+    "dip_group": "无线网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "10.39.34.209",
+    "dip_group": "无线网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "10.39.34.219",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.34.237",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.34.250",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.34.30",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.34.83",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.34.97",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.35.111",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.35.132",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.35.150",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.35.158",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.35.171",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.35.173",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.35.18",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.35.218",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.35.241",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.35.33",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.35.9",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.36.110",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.36.160",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.36.185",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.36.203",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.36.204",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.36.217",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.36.251",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.36.41",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.36.75",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.36.76",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.37.10",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.37.142",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.37.180",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.37.191",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.37.79",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.38.15",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.0",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.112",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.117",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.121",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.4.122",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.15",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.158",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.167",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.192",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.206",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.217",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.222",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.253",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.57",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.63",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.4.77",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.108",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.126",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.174",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.189",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.38",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.5.50",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.89",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.90",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.5.91",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.115",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.39.6.139",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.209",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.227",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.240",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.39",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.48",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.51",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.63",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.6.65",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.128",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.135",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.224",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.4",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.40",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.47",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.61",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.9",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.90",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.91",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.39.7.93",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.40.1.1",
+    "dip_group": "集成监控门禁",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成监控门禁"
+  },
+  {
+    "dip": "10.40.1.2",
+    "dip_group": "集成监控门禁",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成监控门禁"
+  },
+  {
+    "dip": "10.40.3.2",
+    "dip_group": "集成监控门禁",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集成监控门禁"
+  },
+  {
+    "dip": "10.41.71.102",
+    "dip_group": "关东三楼西研发区域制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东三楼西研发区域制造部"
+  },
+  {
+    "dip": "10.41.71.123",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.49.12.11",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.12.12",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.1",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.10",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.11",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.12",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.13",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.14",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.15",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.16",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.2",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.3",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.4",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.5",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.6",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.8",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.5.9",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.6.1",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.10",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.11",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.12",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.13",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.14",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.15",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.16",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.2",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.3",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.4",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.5",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.6",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.8",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.49.7.9",
+    "dip_group": "VDI服务器存储网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "VDI服务器存储网段"
+  },
+  {
+    "dip": "10.57.130.250",
+    "dip_group": "关东南区工业网",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东南区工业网"
+  },
+  {
+    "dip": "10.57.131.133",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.131.56",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.133.1",
+    "dip_group": "关东南区工业网",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东南区工业网"
+  },
+  {
+    "dip": "10.57.133.10",
+    "dip_group": "关东南区工业网",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东南区工业网"
+  },
+  {
+    "dip": "10.57.133.23",
+    "dip_group": "关东南区工业网",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东南区工业网"
+  },
+  {
+    "dip": "10.57.133.24",
+    "dip_group": "关东南区工业网",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东南区工业网"
+  },
+  {
+    "dip": "10.57.30.201",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.30.3",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.30.8",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.35.102",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.35.202",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.35.53",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.57.35.60",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.6.128.70",
+    "dip_group": "集团间防火墙",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集团间防火墙"
+  },
+  {
+    "dip": "10.6.8.5",
+    "dip_group": "集团间防火墙",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集团间防火墙"
+  },
+  {
+    "dip": "10.6.8.6",
+    "dip_group": "集团间防火墙",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集团间防火墙"
+  },
+  {
+    "dip": "10.6.8.7",
+    "dip_group": "集团间防火墙",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "集团间防火墙"
+  },
+  {
+    "dip": "10.7.1.113",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.1.114",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.1.115",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.1.192",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.1.50",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.1.96",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.100.1",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.7.100.10",
+    "dip_group": "宽产实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "宽产实验室"
+  },
+  {
+    "dip": "10.7.100.15",
+    "dip_group": "高新1号楼",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新1号楼"
+  },
+  {
+    "dip": "10.7.100.16",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.100.17",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.7.100.18",
+    "dip_group": "关东研发中心服务器2",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "关东研发中心服务器2"
+  },
+  {
+    "dip": "10.7.100.19",
+    "dip_group": "网产实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产实验室"
+  },
+  {
+    "dip": "10.7.100.98",
+    "dip_group": "网产实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产实验室"
+  },
+  {
+    "dip": "10.7.100.99",
+    "dip_group": "网产实验室",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产实验室"
+  },
+  {
+    "dip": "10.7.101.187",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.11.13",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.11.220",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.11.25",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.21.12",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.21.13",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.252.9",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.51.1",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.7.71.13",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.11",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.15",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.20",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.222",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.23",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.24",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.28",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.29",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.34",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.36",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.20.50",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.71.65.234",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.71.65.235",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.71.65.65",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.72.20.10",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.72.20.21",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.72.20.3",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.72.20.4",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.73.20.20",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.201",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.73.20.21",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.25",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.27",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.3",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.38",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.5",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.65",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.72",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.77",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.20.81",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.73.22.4",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.75.20.20",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.76.20.246",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.76.20.25",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.76.22.16",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.78.13.168",
+    "dip_group": "公研服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "公研服务器"
+  },
+  {
+    "dip": "10.79.20.7",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.79.65.64",
+    "dip_group": "制造部",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "10.82.20.3",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "10.90.10.36",
+    "dip_group": "网产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产服务器"
+  },
+  {
+    "dip": "10.90.10.64",
+    "dip_group": "网产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产服务器"
+  },
+  {
+    "dip": "10.90.10.68",
+    "dip_group": "网产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产服务器"
+  },
+  {
+    "dip": "10.90.10.92",
+    "dip_group": "网产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产服务器"
+  },
+  {
+    "dip": "10.90.6.2",
+    "dip_group": "网产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产服务器"
+  },
+  {
+    "dip": "10.90.8.252",
+    "dip_group": "网产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "网产服务器"
+  },
+  {
+    "dip": "10.96.155.112",
+    "dip_group": "宽产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "宽产服务器"
+  },
+  {
+    "dip": "10.96.155.15",
+    "dip_group": "南研",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "南研"
+  },
+  {
+    "dip": "10.96.156.188",
+    "dip_group": "宽产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "宽产服务器"
+  },
+  {
+    "dip": "10.96.158.11",
+    "dip_group": "宽产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "宽产服务器"
+  },
+  {
+    "dip": "10.96.158.162",
+    "dip_group": "宽产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "宽产服务器"
+  },
+  {
+    "dip": "10.96.158.32",
+    "dip_group": "宽产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "宽产服务器"
+  },
+  {
+    "dip": "10.96.165.161",
+    "dip_group": "宽产服务器",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "宽产服务器"
+  },
+  {
+    "dip": "10.99.20.8",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "106.8.130.149",
+    "dip_group": "未知资产组",
+    "dip_addr": "中国--河北省--张家口市(40.804143/114.881062)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "106.8.130.78",
+    "dip_group": "未知资产组",
+    "dip_addr": "中国--河北省--张家口市(40.804143/114.881062)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "111.172.104.125",
+    "dip_group": "光配线",
+    "dip_addr": "中国--湖北省--武汉市(30.577806/114.304197)",
+    "asset_group": "光配线"
+  },
+  {
+    "dip": "111.18.41.97",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--陕西省--西安市(34.273136/108.942031)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "111.20.198.242",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--陕西省--商洛市(33.869298/109.922821)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "111.44.169.170",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--青海省--海东市(36.511715/102.076560)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "111.44.175.117",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--青海省--西宁市(36.634487/101.759559)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "111.77.199.16",
+    "dip_group": "未知资产组",
+    "dip_addr": "中国--江西省--宜春市(27.808299/114.388225)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "112.5.80.98",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--福建省--南平市(26.640817/118.170402)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "112.54.126.22",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--江西省--景德镇市(29.300525/117.174594)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "114.114.114.114",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国(39.902798/116.401159)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "116.211.239.159",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--湖北省--武汉市(30.577806/114.304197)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "117.187.126.135",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--贵州省--六盘水市(26.589582/104.843049)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "117.187.126.141",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--贵州省--六盘水市(26.589582/104.843049)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "119.29.29.29",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国(39.902798/116.401159)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "124.6.181.186",
+    "dip_group": "未知资产组",
+    "dip_addr": "菲律宾(14.600041/120.978006)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "129.9.30.112",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "美国--密歇根州--奥本山(42.689769/-83.234198)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "13.215.239.219",
+    "dip_group": "FitOS",
+    "dip_addr": "美国(39.765054/-101.407912)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "172.16.101.102",
+    "dip_group": "成研",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "成研"
+  },
+  {
+    "dip": "172.16.101.11",
+    "dip_group": "成研",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "成研"
+  },
+  {
+    "dip": "172.16.108.187",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.108.190",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.108.191",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.109.170",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.109.186",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.114.234",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.114.235",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.34.245",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.16.36.23",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.16.36.45",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.16.44.118",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.16.62.12",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.62.17",
+    "dip_group": "未分配资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未分配资产组"
+  },
+  {
+    "dip": "172.16.84.179",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.16.84.82",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.1.199",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.1.223",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.2.6",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--河南省--郑州市(34.762501/113.653023)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.7.10",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.7.145",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.7.163",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.7.76",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.7.82",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.17.7.89",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "局域网",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.22.169.51",
+    "dip_group": "制造部",
+    "dip_addr": "局域网",
+    "asset_group": "制造部"
+  },
+  {
+    "dip": "172.29.12.23",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--陕西省--西安市(34.2603/108.9356)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.29.6.15",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--陕西省--西安市(34.2603/108.9356)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.29.6.181",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--陕西省--西安市(34.2603/108.9356)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.29.6.216",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--陕西省--西安市(34.2603/108.9356)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.29.6.222",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--陕西省--西安市(34.2603/108.9356)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "172.29.6.227",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--陕西省--西安市(34.2603/108.9356)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "192.168.1.1",
+    "dip_group": "宽产实验室",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "宽产实验室"
+  },
+  {
+    "dip": "192.168.1.76",
+    "dip_group": "高新服务器网段",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "高新服务器网段"
+  },
+  {
+    "dip": "192.168.10.1",
+    "dip_group": "云创",
+    "dip_addr": "局域网",
+    "asset_group": "云创"
+  },
+  {
+    "dip": "192.168.100.1",
+    "dip_group": "宽产实验室",
+    "dip_addr": "局域网",
+    "asset_group": "宽产实验室"
+  },
+  {
+    "dip": "192.168.100.5",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.111.1",
+    "dip_group": "宽产实验室",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "宽产实验室"
+  },
+  {
+    "dip": "192.168.111.175",
+    "dip_group": "南京藤仓",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "南京藤仓"
+  },
+  {
+    "dip": "192.168.111.42",
+    "dip_group": "南京藤仓",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "南京藤仓"
+  },
+  {
+    "dip": "192.168.111.44",
+    "dip_group": "南京藤仓",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "南京藤仓"
+  },
+  {
+    "dip": "192.168.112.1",
+    "dip_group": "宽产实验室",
+    "dip_addr": "局域网",
+    "asset_group": "宽产实验室"
+  },
+  {
+    "dip": "192.168.13.2",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.137.2",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.15.1",
+    "dip_group": "宽产实验室",
+    "dip_addr": "局域网",
+    "asset_group": "宽产实验室"
+  },
+  {
+    "dip": "192.168.151.26",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.186.2",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.2.1",
+    "dip_group": "宽产实验室",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "宽产实验室"
+  },
+  {
+    "dip": "192.168.236.208",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.253.233",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.29.2",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.3.1",
+    "dip_group": "无线网段",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.43.1",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.50.1",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.64.6",
+    "dip_group": "无线网段",
+    "dip_addr": "中国--江苏省--南京市(32.060255/118.796877)",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.66.1",
+    "dip_group": "无线网段",
+    "dip_addr": "局域网",
+    "asset_group": "无线网段"
+  },
+  {
+    "dip": "192.168.7.61",
+    "dip_group": "成都大唐",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "成都大唐"
+  },
+  {
+    "dip": "192.168.7.62",
+    "dip_group": "成都大唐",
+    "dip_addr": "中国--四川省--成都市(30.658529/104.075546)",
+    "asset_group": "成都大唐"
+  },
+  {
+    "dip": "203.119.102.40",
+    "dip_group": "未知资产组",
+    "dip_addr": "澳大利亚--昆士兰州--布里斯班(-27.462502/153.031489)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "211.138.72.177",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--青海省--西宁市(36.634487/101.759559)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "218.205.18.18",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--江苏省--常州市(31.767346/119.970668)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "223.160.208.27",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--北京市--北京市(39.902798/116.401159)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "223.5.5.5",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国(39.902798/116.401159)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "223.6.6.6",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--浙江省--杭州市(30.255611/120.208335)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "223.75.222.32",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--湖北省--武汉市(30.577806/114.304197)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "223.92.11.202",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--浙江省--温州市(28.000261/120.680069)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "2409:874c:2000:1::1",
+    "dip_group": "未知资产组",
+    "dip_addr": "中国--湖北省--黄石市(30.212657/115.038786)",
+    "asset_group": "未知资产组"
+  },
+  {
+    "dip": "31.28.24.122",
+    "dip_group": "FitOS",
+    "dip_addr": "俄罗斯--莫斯科州--莫斯科(55.755847/37.611856)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "52.74.6.109",
+    "dip_group": "FitOS",
+    "dip_addr": "新加坡--新加坡--新加坡(1.286529/103.853519)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "59.111.192.183",
+    "dip_group": "未知资产组",
+    "dip_addr": "中国--浙江省--杭州市(30.255611/120.208335)",
+    "asset_group": "FitOS"
+  },
+  {
+    "dip": "61.183.207.101",
+    "dip_group": "互联网出口IP",
+    "dip_addr": "中国--湖北省--武汉市(30.572399/114.279121)",
+    "asset_group": "互联网出口IP"
+  },
+  {
+    "dip": "fe80::1d48:a7c7:d7bf:b1ea",
+    "dip_group": "未知资产组",
+    "dip_addr": "局域网",
+    "asset_group": "未知资产组"
+  }
+]

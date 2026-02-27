@@ -1,0 +1,1093 @@
+{
+    "type": "ip_address",
+    "attributes": {
+        "last_modification_date": 1769941951,
+        "reputation": 0,
+        "last_analysis_results": {
+            "Acronis": {
+                "method": "blacklist",
+                "engine_name": "Acronis",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "0xSI_f33d": {
+                "method": "blacklist",
+                "engine_name": "0xSI_f33d",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Abusix": {
+                "method": "blacklist",
+                "engine_name": "Abusix",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ADMINUSLabs": {
+                "method": "blacklist",
+                "engine_name": "ADMINUSLabs",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Axur": {
+                "method": "blacklist",
+                "engine_name": "Axur",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ChainPatrol": {
+                "method": "blacklist",
+                "engine_name": "ChainPatrol",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Criminal IP": {
+                "method": "blacklist",
+                "engine_name": "Criminal IP",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AILabs (MONITORAPP)": {
+                "method": "blacklist",
+                "engine_name": "AILabs (MONITORAPP)",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "AlienVault": {
+                "method": "blacklist",
+                "engine_name": "AlienVault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "alphaMountain.ai": {
+                "method": "blacklist",
+                "engine_name": "alphaMountain.ai",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AlphaSOC": {
+                "method": "blacklist",
+                "engine_name": "AlphaSOC",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Antiy-AVL": {
+                "method": "blacklist",
+                "engine_name": "Antiy-AVL",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ArcSight Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "ArcSight Threat Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AutoShun": {
+                "method": "blacklist",
+                "engine_name": "AutoShun",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "benkow.cc": {
+                "method": "blacklist",
+                "engine_name": "benkow.cc",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bfore.Ai PreCrime": {
+                "method": "blacklist",
+                "engine_name": "Bfore.Ai PreCrime",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "BitDefender": {
+                "method": "blacklist",
+                "engine_name": "BitDefender",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bkav": {
+                "method": "blacklist",
+                "engine_name": "Bkav",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Blueliv": {
+                "method": "blacklist",
+                "engine_name": "Blueliv",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Certego": {
+                "method": "blacklist",
+                "engine_name": "Certego",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Chong Lua Dao": {
+                "method": "blacklist",
+                "engine_name": "Chong Lua Dao",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CINS Army": {
+                "method": "blacklist",
+                "engine_name": "CINS Army",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cluster25": {
+                "method": "blacklist",
+                "engine_name": "Cluster25",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "CRDF": {
+                "method": "blacklist",
+                "engine_name": "CRDF",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CSIS Security Group": {
+                "method": "blacklist",
+                "engine_name": "CSIS Security Group",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Snort IP sample list": {
+                "method": "blacklist",
+                "engine_name": "Snort IP sample list",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CMC Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "CMC Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cyan": {
+                "method": "blacklist",
+                "engine_name": "Cyan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Cyble": {
+                "method": "blacklist",
+                "engine_name": "Cyble",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CyRadar": {
+                "method": "blacklist",
+                "engine_name": "CyRadar",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "DNS8": {
+                "method": "blacklist",
+                "engine_name": "DNS8",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Dr.Web": {
+                "method": "blacklist",
+                "engine_name": "Dr.Web",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Ermes": {
+                "method": "blacklist",
+                "engine_name": "Ermes",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ESET": {
+                "method": "blacklist",
+                "engine_name": "ESET",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ESTsecurity": {
+                "method": "blacklist",
+                "engine_name": "ESTsecurity",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "EmergingThreats": {
+                "method": "blacklist",
+                "engine_name": "EmergingThreats",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Emsisoft": {
+                "method": "blacklist",
+                "engine_name": "Emsisoft",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Forcepoint ThreatSeeker": {
+                "method": "blacklist",
+                "engine_name": "Forcepoint ThreatSeeker",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Fortinet": {
+                "method": "blacklist",
+                "engine_name": "Fortinet",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "G-Data": {
+                "method": "blacklist",
+                "engine_name": "G-Data",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GCP Abuse Intelligence": {
+                "method": "blacklist",
+                "engine_name": "GCP Abuse Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Google Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Google Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreenSnow": {
+                "method": "blacklist",
+                "engine_name": "GreenSnow",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreyNoise": {
+                "method": "blacklist",
+                "engine_name": "GreyNoise",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Gridinsoft": {
+                "method": "blacklist",
+                "engine_name": "Gridinsoft",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Heimdal Security": {
+                "method": "blacklist",
+                "engine_name": "Heimdal Security",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Hunt.io Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Hunt.io Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "IPsum": {
+                "method": "blacklist",
+                "engine_name": "IPsum",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Juniper Networks": {
+                "method": "blacklist",
+                "engine_name": "Juniper Networks",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Kaspersky": {
+                "method": "blacklist",
+                "engine_name": "Kaspersky",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Lionic": {
+                "method": "blacklist",
+                "engine_name": "Lionic",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Lumu": {
+                "method": "blacklist",
+                "engine_name": "Lumu",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "MalwarePatrol": {
+                "method": "blacklist",
+                "engine_name": "MalwarePatrol",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "MalwareURL": {
+                "method": "blacklist",
+                "engine_name": "MalwareURL",
+                "category": "malicious",
+                "result": "malware"
+            },
+            "Malwared": {
+                "method": "blacklist",
+                "engine_name": "Malwared",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Mimecast": {
+                "method": "blacklist",
+                "engine_name": "Mimecast",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Netcraft": {
+                "method": "blacklist",
+                "engine_name": "Netcraft",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "OpenPhish": {
+                "method": "blacklist",
+                "engine_name": "OpenPhish",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Phishing Database": {
+                "method": "blacklist",
+                "engine_name": "Phishing Database",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PhishFort": {
+                "method": "blacklist",
+                "engine_name": "PhishFort",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "PhishLabs": {
+                "method": "blacklist",
+                "engine_name": "PhishLabs",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Phishtank": {
+                "method": "blacklist",
+                "engine_name": "Phishtank",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PREBYTES": {
+                "method": "blacklist",
+                "engine_name": "PREBYTES",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PrecisionSec": {
+                "method": "blacklist",
+                "engine_name": "PrecisionSec",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Quick Heal": {
+                "method": "blacklist",
+                "engine_name": "Quick Heal",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Quttera": {
+                "method": "blacklist",
+                "engine_name": "Quttera",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SafeToOpen": {
+                "method": "blacklist",
+                "engine_name": "SafeToOpen",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Sansec eComscan": {
+                "method": "blacklist",
+                "engine_name": "Sansec eComscan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Scantitan": {
+                "method": "blacklist",
+                "engine_name": "Scantitan",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SCUMWARE.org": {
+                "method": "blacklist",
+                "engine_name": "SCUMWARE.org",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Seclookup": {
+                "method": "blacklist",
+                "engine_name": "Seclookup",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SecureBrain": {
+                "method": "blacklist",
+                "engine_name": "SecureBrain",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "SOCRadar": {
+                "method": "blacklist",
+                "engine_name": "SOCRadar",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Sophos": {
+                "method": "blacklist",
+                "engine_name": "Sophos",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Spam404": {
+                "method": "blacklist",
+                "engine_name": "Spam404",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "StopForumSpam": {
+                "method": "blacklist",
+                "engine_name": "StopForumSpam",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Sucuri SiteCheck": {
+                "method": "blacklist",
+                "engine_name": "Sucuri SiteCheck",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ThreatHive": {
+                "method": "blacklist",
+                "engine_name": "ThreatHive",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Trustwave": {
+                "method": "blacklist",
+                "engine_name": "Trustwave",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "URLhaus": {
+                "method": "blacklist",
+                "engine_name": "URLhaus",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "URLQuery": {
+                "method": "blacklist",
+                "engine_name": "URLQuery",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Viettel Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Viettel Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "VIPRE": {
+                "method": "blacklist",
+                "engine_name": "VIPRE",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "VX Vault": {
+                "method": "blacklist",
+                "engine_name": "VX Vault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ViriBack": {
+                "method": "blacklist",
+                "engine_name": "ViriBack",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Webroot": {
+                "method": "blacklist",
+                "engine_name": "Webroot",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Yandex Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Yandex Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ZeroCERT": {
+                "method": "blacklist",
+                "engine_name": "ZeroCERT",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "desenmascara.me": {
+                "method": "blacklist",
+                "engine_name": "desenmascara.me",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "malwares.com URL checker": {
+                "method": "blacklist",
+                "engine_name": "malwares.com URL checker",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "securolytics": {
+                "method": "blacklist",
+                "engine_name": "securolytics",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Xcitium Verdict Cloud": {
+                "method": "blacklist",
+                "engine_name": "Xcitium Verdict Cloud",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ZeroFox": {
+                "method": "blacklist",
+                "engine_name": "ZeroFox",
+                "category": "undetected",
+                "result": "unrated"
+            }
+        },
+        "as_owner": "National Internet Backbone",
+        "total_votes": {
+            "harmless": 0,
+            "malicious": 0
+        },
+        "whois_date": 1746554723,
+        "regional_internet_registry": "APNIC",
+        "country": "IN",
+        "asn": 9829,
+        "whois": "inetnum: 117.193.168.0 - 117.193.255.255\nnetname: BB-Multiplay\ndescr: Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore\ncountry: IN\nadmin-c: BH155-AP\ntech-c: DB374-AP\nabuse-c: AB1061-AP\nstatus: ASSIGNED NON-PORTABLE\nmnt-by: MAINT-IN-DOT\nmnt-irt: IRT-BSNL-IN\nlast-modified: 2021-07-15T07:20:03Z\nsource: APNIC\nirt: IRT-BSNL-IN\naddress: Internet Cell\naddress: Bharat Sanchar Nigam Limited.\naddress: 8th Floor,148-B Statesman House\naddress: Barakhamba Road, New Delhi - 110 001\ne-mail: abuse1@bsnl.co.in\nabuse-mailbox: abuse1@bsnl.co.in\nadmin-c: NC83-AP\ntech-c: CGMD1-AP\nauth: # Filtered\nremarks: abuse1@bsnl.co.in was validated on 2024-12-26\nmnt-by: MAINT-IN-DOT\nlast-modified: 2024-12-26T04:34:51Z\nsource: APNIC\nrole: ABUSE BSNLIN\ncountry: ZZ\naddress: Internet Cell\naddress: Bharat Sanchar Nigam Limited.\naddress: 8th Floor,148-B Statesman House\naddress: Barakhamba Road, New Delhi - 110 001\nphone: +000000000\ne-mail: abuse1@bsnl.co.in\nadmin-c: NC83-AP\ntech-c: CGMD1-AP\nnic-hdl: AB1061-AP\nremarks: Generated from irt object IRT-BSNL-IN\nremarks: abuse1@bsnl.co.in was validated on 2024-12-26\nabuse-mailbox: abuse1@bsnl.co.in\nmnt-by: APNIC-ABUSE\nlast-modified: 2024-12-26T04:35:22Z\nsource: APNIC\nperson: BSNL Hostmaster\nnic-hdl: BH155-AP\ne-mail: hostmaster@bsnl.co.in\naddress: Broadband Networks\naddress: Bharat Sanchar Nigam Limited\naddress: 2nd Floor, Telephone Exchange, Sector 62\naddress: Noida\nphone: +91-120-2404243\nfax-no: +91-120-2404241\ncountry: IN\nmnt-by: MAINT-IN-PER-DOT\nlast-modified: 2021-12-08T10:52:18Z\nsource: APNIC\nperson: DGM Broadband\naddress: BSNL NOC Bangalore\ncountry: IN\nphone: +91-080-25805800\nfax-no: +91-080-25800022\ne-mail: dnwplg@bsnl.in\nnic-hdl: DB374-AP\nmnt-by: MAINT-IN-PER-DOT\nlast-modified: 2011-02-19T10:03:44Z\nsource: APNIC\nroute: 117.193.160.0/20\ndescr: BSNL Internet\ncountry: IN\norigin: AS9829\nmnt-lower: MAINT-IN-DOT\nmnt-routes: MAINT-IN-DOT\nmnt-by: MAINT-IN-AS9829\nlast-modified: 2008-09-04T07:55:05Z\nsource: APNIC\n",
+        "network": "117.192.0.0/14",
+        "rdap": {
+            "object_class_name": "ip network",
+            "handle": "117.193.168.0 - 117.193.255.255",
+            "start_address": "117.193.168.0",
+            "end_address": "117.193.255.255",
+            "ip_version": "v4",
+            "name": "BB-Multiplay",
+            "type": "ASSIGNED NON-PORTABLE",
+            "country": "IN",
+            "status": [
+                "active"
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.apnic.net/ip/117.193.192.0/18",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                    "title": "",
+                    "media": "",
+                    "href_lang": []
+                },
+                {
+                    "href": "https://netox.apnic.net/search/117.193.168.0%2F21?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+                    "rel": "related",
+                    "type": "text/html",
+                    "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                    "title": "",
+                    "media": "",
+                    "href_lang": []
+                },
+                {
+                    "href": "https://netox.apnic.net/search/117.193.176.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+                    "rel": "related",
+                    "type": "text/html",
+                    "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                    "title": "",
+                    "media": "",
+                    "href_lang": []
+                },
+                {
+                    "href": "https://netox.apnic.net/search/117.193.192.0%2F18?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+                    "rel": "related",
+                    "type": "text/html",
+                    "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                    "title": "",
+                    "media": "",
+                    "href_lang": []
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Source",
+                    "description": [
+                        "Objects returned came from source",
+                        "APNIC"
+                    ],
+                    "links": [],
+                    "type": ""
+                },
+                {
+                    "title": "Terms and Conditions",
+                    "description": [
+                        "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+                    ],
+                    "links": [
+                        {
+                            "href": "http://www.apnic.net/db/dbcopyright.html",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "type": ""
+                },
+                {
+                    "title": "Whois Inaccuracy Reporting",
+                    "description": [
+                        "If you see inaccuracies in the results, please visit: "
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.apnic.net/manage-ip/using-whois/abuse-and-spamming/invalid-contact-form",
+                            "rel": "inaccuracy-report",
+                            "type": "text/html",
+                            "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "type": ""
+                }
+            ],
+            "events": [
+                {
+                    "event_action": "registration",
+                    "event_date": "2017-05-15T07:43:17Z",
+                    "event_actor": "",
+                    "links": []
+                },
+                {
+                    "event_action": "last changed",
+                    "event_date": "2021-07-15T07:20:03Z",
+                    "event_actor": "",
+                    "links": []
+                }
+            ],
+            "rdap_conformance": [
+                "history_version_0",
+                "nro_rdap_profile_0",
+                "cidr0",
+                "rdap_level_0"
+            ],
+            "entities": [
+                {
+                    "object_class_name": "entity",
+                    "handle": "BH155-AP",
+                    "vcard_array": [
+                        {
+                            "name": "version",
+                            "type": "text",
+                            "values": [
+                                "4.0"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "fn",
+                            "type": "text",
+                            "values": [
+                                "BSNL Hostmaster"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "kind",
+                            "type": "text",
+                            "values": [
+                                "individual"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "adr",
+                            "parameters": {
+                                "label": [
+                                    "Broadband Networks\nBharat Sanchar Nigam Limited\n2nd Floor, Telephone Exchange, Sector 62\nNoida"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": "tel",
+                            "parameters": {
+                                "type": [
+                                    "voice"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "+91-120-2404243"
+                            ]
+                        },
+                        {
+                            "name": "tel",
+                            "parameters": {
+                                "type": [
+                                    "fax"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "+91-120-2404241"
+                            ]
+                        },
+                        {
+                            "name": "email",
+                            "type": "text",
+                            "values": [
+                                "hostmaster@bsnl.co.in"
+                            ],
+                            "parameters": {}
+                        }
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.apnic.net/entity/BH155-AP",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "events": [
+                        {
+                            "event_action": "registration",
+                            "event_date": "2008-09-04T07:36:20Z",
+                            "event_actor": "",
+                            "links": []
+                        },
+                        {
+                            "event_action": "last changed",
+                            "event_date": "2021-12-08T10:52:18Z",
+                            "event_actor": "",
+                            "links": []
+                        }
+                    ],
+                    "public_ids": [],
+                    "entities": [],
+                    "remarks": [],
+                    "as_event_actor": [],
+                    "status": [],
+                    "port43": "",
+                    "networks": [],
+                    "autnums": [],
+                    "url": "",
+                    "lang": "",
+                    "rdap_conformance": []
+                },
+                {
+                    "object_class_name": "entity",
+                    "handle": "IRT-BSNL-IN",
+                    "vcard_array": [
+                        {
+                            "name": "version",
+                            "type": "text",
+                            "values": [
+                                "4.0"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "fn",
+                            "type": "text",
+                            "values": [
+                                "IRT-BSNL-IN"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "kind",
+                            "type": "text",
+                            "values": [
+                                "group"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "adr",
+                            "parameters": {
+                                "label": [
+                                    "Internet Cell\nBharat Sanchar Nigam Limited.\n8th Floor,148-B Statesman House\nBarakhamba Road, New Delhi - 110 001"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": "email",
+                            "type": "text",
+                            "values": [
+                                "abuse1@bsnl.co.in"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "email",
+                            "parameters": {
+                                "pref": [
+                                    "1"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "abuse1@bsnl.co.in"
+                            ]
+                        }
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "remarks",
+                            "description": [
+                                "abuse1@bsnl.co.in was validated on 2024-12-26"
+                            ],
+                            "links": [],
+                            "type": ""
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.apnic.net/entity/IRT-BSNL-IN",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "events": [
+                        {
+                            "event_action": "registration",
+                            "event_date": "2010-11-11T09:29:05Z",
+                            "event_actor": "",
+                            "links": []
+                        },
+                        {
+                            "event_action": "last changed",
+                            "event_date": "2024-12-26T04:34:51Z",
+                            "event_actor": "",
+                            "links": []
+                        }
+                    ],
+                    "public_ids": [],
+                    "entities": [],
+                    "as_event_actor": [],
+                    "status": [],
+                    "port43": "",
+                    "networks": [],
+                    "autnums": [],
+                    "url": "",
+                    "lang": "",
+                    "rdap_conformance": []
+                },
+                {
+                    "object_class_name": "entity",
+                    "handle": "DB374-AP",
+                    "vcard_array": [
+                        {
+                            "name": "version",
+                            "type": "text",
+                            "values": [
+                                "4.0"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "fn",
+                            "type": "text",
+                            "values": [
+                                "DGM Broadband"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "kind",
+                            "type": "text",
+                            "values": [
+                                "individual"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "adr",
+                            "parameters": {
+                                "label": [
+                                    "BSNL NOC Bangalore"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": "tel",
+                            "parameters": {
+                                "type": [
+                                    "voice"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "+91-080-25805800"
+                            ]
+                        },
+                        {
+                            "name": "tel",
+                            "parameters": {
+                                "type": [
+                                    "fax"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "+91-080-25800022"
+                            ]
+                        },
+                        {
+                            "name": "email",
+                            "type": "text",
+                            "values": [
+                                "dnwplg@bsnl.in"
+                            ],
+                            "parameters": {}
+                        }
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.apnic.net/entity/DB374-AP",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.apnic.net/ip/117.193.174.31",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "events": [
+                        {
+                            "event_action": "registration",
+                            "event_date": "2011-02-18T06:39:53Z",
+                            "event_actor": "",
+                            "links": []
+                        },
+                        {
+                            "event_action": "last changed",
+                            "event_date": "2011-02-19T10:03:44Z",
+                            "event_actor": "",
+                            "links": []
+                        }
+                    ],
+                    "public_ids": [],
+                    "entities": [],
+                    "remarks": [],
+                    "as_event_actor": [],
+                    "status": [],
+                    "port43": "",
+                    "networks": [],
+                    "autnums": [],
+                    "url": "",
+                    "lang": "",
+                    "rdap_conformance": []
+                }
+            ],
+            "port43": "whois.apnic.net",
+            "cidr0_cidrs": [
+                {
+                    "v4prefix": "117.193.176.0",
+                    "length": 20,
+                    "v6prefix": ""
+                },
+                {
+                    "v4prefix": "117.193.192.0",
+                    "length": 18,
+                    "v6prefix": ""
+                },
+                {
+                    "v4prefix": "117.193.168.0",
+                    "length": 21,
+                    "v6prefix": ""
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "description",
+                    "description": [
+                        "Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore"
+                    ],
+                    "links": [],
+                    "type": ""
+                }
+            ],
+            "parent_handle": "",
+            "arin_originas0_originautnums": []
+        },
+        "continent": "AS",
+        "last_analysis_stats": {
+            "malicious": 1,
+            "suspicious": 0,
+            "undetected": 34,
+            "harmless": 58,
+            "timeout": 0
+        },
+        "tags": [],
+        "last_analysis_date": 1747303705
+    },
+    "id": "117.193.174.31"
+}

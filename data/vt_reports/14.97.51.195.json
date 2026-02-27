@@ -1,0 +1,1112 @@
+{
+    "type": "ip_address",
+    "attributes": {
+        "whois_date": 1766946744,
+        "last_https_certificate_date": 1767564801,
+        "jarm": "05d10d20d21d20d05c05d10d05d20d74fcf6501ae7a92319e575bfafd2a827",
+        "last_modification_date": 1769946133,
+        "total_votes": {
+            "harmless": 0,
+            "malicious": 0
+        },
+        "regional_internet_registry": "APNIC",
+        "reputation": 0,
+        "tags": [
+            "self-signed"
+        ],
+        "asn": 45820,
+        "last_analysis_results": {
+            "Acronis": {
+                "method": "blacklist",
+                "engine_name": "Acronis",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "0xSI_f33d": {
+                "method": "blacklist",
+                "engine_name": "0xSI_f33d",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Abusix": {
+                "method": "blacklist",
+                "engine_name": "Abusix",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ADMINUSLabs": {
+                "method": "blacklist",
+                "engine_name": "ADMINUSLabs",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Axur": {
+                "method": "blacklist",
+                "engine_name": "Axur",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ChainPatrol": {
+                "method": "blacklist",
+                "engine_name": "ChainPatrol",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Criminal IP": {
+                "method": "blacklist",
+                "engine_name": "Criminal IP",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "AILabs (MONITORAPP)": {
+                "method": "blacklist",
+                "engine_name": "AILabs (MONITORAPP)",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "AlienVault": {
+                "method": "blacklist",
+                "engine_name": "AlienVault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "alphaMountain.ai": {
+                "method": "blacklist",
+                "engine_name": "alphaMountain.ai",
+                "category": "suspicious",
+                "result": "suspicious"
+            },
+            "AlphaSOC": {
+                "method": "blacklist",
+                "engine_name": "AlphaSOC",
+                "category": "suspicious",
+                "result": "suspicious"
+            },
+            "Antiy-AVL": {
+                "method": "blacklist",
+                "engine_name": "Antiy-AVL",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ArcSight Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "ArcSight Threat Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "AutoShun": {
+                "method": "blacklist",
+                "engine_name": "AutoShun",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "benkow.cc": {
+                "method": "blacklist",
+                "engine_name": "benkow.cc",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bfore.Ai PreCrime": {
+                "method": "blacklist",
+                "engine_name": "Bfore.Ai PreCrime",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "BitDefender": {
+                "method": "blacklist",
+                "engine_name": "BitDefender",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Bkav": {
+                "method": "blacklist",
+                "engine_name": "Bkav",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Blueliv": {
+                "method": "blacklist",
+                "engine_name": "Blueliv",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Certego": {
+                "method": "blacklist",
+                "engine_name": "Certego",
+                "category": "malicious",
+                "result": "phishing"
+            },
+            "Chong Lua Dao": {
+                "method": "blacklist",
+                "engine_name": "Chong Lua Dao",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CINS Army": {
+                "method": "blacklist",
+                "engine_name": "CINS Army",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cluster25": {
+                "method": "blacklist",
+                "engine_name": "Cluster25",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "CRDF": {
+                "method": "blacklist",
+                "engine_name": "CRDF",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CSIS Security Group": {
+                "method": "blacklist",
+                "engine_name": "CSIS Security Group",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Snort IP sample list": {
+                "method": "blacklist",
+                "engine_name": "Snort IP sample list",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "CMC Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "CMC Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Cyan": {
+                "method": "blacklist",
+                "engine_name": "Cyan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Cyble": {
+                "method": "blacklist",
+                "engine_name": "Cyble",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "CyRadar": {
+                "method": "blacklist",
+                "engine_name": "CyRadar",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "DNS8": {
+                "method": "blacklist",
+                "engine_name": "DNS8",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Dr.Web": {
+                "method": "blacklist",
+                "engine_name": "Dr.Web",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Ermes": {
+                "method": "blacklist",
+                "engine_name": "Ermes",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ESET": {
+                "method": "blacklist",
+                "engine_name": "ESET",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ESTsecurity": {
+                "method": "blacklist",
+                "engine_name": "ESTsecurity",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "EmergingThreats": {
+                "method": "blacklist",
+                "engine_name": "EmergingThreats",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Emsisoft": {
+                "method": "blacklist",
+                "engine_name": "Emsisoft",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Forcepoint ThreatSeeker": {
+                "method": "blacklist",
+                "engine_name": "Forcepoint ThreatSeeker",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Fortinet": {
+                "method": "blacklist",
+                "engine_name": "Fortinet",
+                "category": "malicious",
+                "result": "malware"
+            },
+            "G-Data": {
+                "method": "blacklist",
+                "engine_name": "G-Data",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GCP Abuse Intelligence": {
+                "method": "blacklist",
+                "engine_name": "GCP Abuse Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Google Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Google Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreenSnow": {
+                "method": "blacklist",
+                "engine_name": "GreenSnow",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "GreyNoise": {
+                "method": "blacklist",
+                "engine_name": "GreyNoise",
+                "category": "malicious",
+                "result": "malicious"
+            },
+            "Gridinsoft": {
+                "method": "blacklist",
+                "engine_name": "Gridinsoft",
+                "category": "suspicious",
+                "result": "suspicious"
+            },
+            "Heimdal Security": {
+                "method": "blacklist",
+                "engine_name": "Heimdal Security",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Hunt.io Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Hunt.io Intelligence",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "IPsum": {
+                "method": "blacklist",
+                "engine_name": "IPsum",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Juniper Networks": {
+                "method": "blacklist",
+                "engine_name": "Juniper Networks",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Kaspersky": {
+                "method": "blacklist",
+                "engine_name": "Kaspersky",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Lionic": {
+                "method": "blacklist",
+                "engine_name": "Lionic",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Lumu": {
+                "method": "blacklist",
+                "engine_name": "Lumu",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "MalwarePatrol": {
+                "method": "blacklist",
+                "engine_name": "MalwarePatrol",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "MalwareURL": {
+                "method": "blacklist",
+                "engine_name": "MalwareURL",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Malwared": {
+                "method": "blacklist",
+                "engine_name": "Malwared",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Mimecast": {
+                "method": "blacklist",
+                "engine_name": "Mimecast",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Netcraft": {
+                "method": "blacklist",
+                "engine_name": "Netcraft",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "OpenPhish": {
+                "method": "blacklist",
+                "engine_name": "OpenPhish",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Phishing Database": {
+                "method": "blacklist",
+                "engine_name": "Phishing Database",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PhishFort": {
+                "method": "blacklist",
+                "engine_name": "PhishFort",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "PhishLabs": {
+                "method": "blacklist",
+                "engine_name": "PhishLabs",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Phishtank": {
+                "method": "blacklist",
+                "engine_name": "Phishtank",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PREBYTES": {
+                "method": "blacklist",
+                "engine_name": "PREBYTES",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "PrecisionSec": {
+                "method": "blacklist",
+                "engine_name": "PrecisionSec",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Quick Heal": {
+                "method": "blacklist",
+                "engine_name": "Quick Heal",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Quttera": {
+                "method": "blacklist",
+                "engine_name": "Quttera",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SafeToOpen": {
+                "method": "blacklist",
+                "engine_name": "SafeToOpen",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Sansec eComscan": {
+                "method": "blacklist",
+                "engine_name": "Sansec eComscan",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Scantitan": {
+                "method": "blacklist",
+                "engine_name": "Scantitan",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SCUMWARE.org": {
+                "method": "blacklist",
+                "engine_name": "SCUMWARE.org",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Seclookup": {
+                "method": "blacklist",
+                "engine_name": "Seclookup",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "SecureBrain": {
+                "method": "blacklist",
+                "engine_name": "SecureBrain",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "SOCRadar": {
+                "method": "blacklist",
+                "engine_name": "SOCRadar",
+                "category": "malicious",
+                "result": "malware"
+            },
+            "Sophos": {
+                "method": "blacklist",
+                "engine_name": "Sophos",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Spam404": {
+                "method": "blacklist",
+                "engine_name": "Spam404",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "StopForumSpam": {
+                "method": "blacklist",
+                "engine_name": "StopForumSpam",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Sucuri SiteCheck": {
+                "method": "blacklist",
+                "engine_name": "Sucuri SiteCheck",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ThreatHive": {
+                "method": "blacklist",
+                "engine_name": "ThreatHive",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Trustwave": {
+                "method": "blacklist",
+                "engine_name": "Trustwave",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "URLhaus": {
+                "method": "blacklist",
+                "engine_name": "URLhaus",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "URLQuery": {
+                "method": "blacklist",
+                "engine_name": "URLQuery",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "Viettel Threat Intelligence": {
+                "method": "blacklist",
+                "engine_name": "Viettel Threat Intelligence",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "VIPRE": {
+                "method": "blacklist",
+                "engine_name": "VIPRE",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "VX Vault": {
+                "method": "blacklist",
+                "engine_name": "VX Vault",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ViriBack": {
+                "method": "blacklist",
+                "engine_name": "ViriBack",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Webroot": {
+                "method": "blacklist",
+                "engine_name": "Webroot",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Yandex Safebrowsing": {
+                "method": "blacklist",
+                "engine_name": "Yandex Safebrowsing",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "ZeroCERT": {
+                "method": "blacklist",
+                "engine_name": "ZeroCERT",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "desenmascara.me": {
+                "method": "blacklist",
+                "engine_name": "desenmascara.me",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "malwares.com URL checker": {
+                "method": "blacklist",
+                "engine_name": "malwares.com URL checker",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "securolytics": {
+                "method": "blacklist",
+                "engine_name": "securolytics",
+                "category": "harmless",
+                "result": "clean"
+            },
+            "Xcitium Verdict Cloud": {
+                "method": "blacklist",
+                "engine_name": "Xcitium Verdict Cloud",
+                "category": "undetected",
+                "result": "unrated"
+            },
+            "ZeroFox": {
+                "method": "blacklist",
+                "engine_name": "ZeroFox",
+                "category": "undetected",
+                "result": "unrated"
+            }
+        },
+        "country": "IN",
+        "last_analysis_stats": {
+            "malicious": 6,
+            "suspicious": 3,
+            "undetected": 29,
+            "harmless": 55,
+            "timeout": 0
+        },
+        "continent": "AS",
+        "network": "14.97.50.0/23",
+        "whois": "inetnum: 14.96.0.0 - 14.97.255.255\nnetname: TATAINDICOM-IN\ndescr: TATA TELESERVICES LTD - TATA INDICOM - CDMA DIVISION\ndescr: D26/2 TTC INDUSTRIAL AREA\ndescr: MIDC SANAPADA PO TURBHE\ncountry: IN\norg: ORG-TTLC1-AP\nadmin-c: TTLC1-AP\ntech-c: TTLC1-AP\nabuse-c: AT1289-AP\nstatus: ALLOCATED PORTABLE\nremarks: --------------------------------------------------------\nremarks: To report network abuse, please contact mnt-irt\nremarks: For troubleshooting, please contact tech-c and admin-c\nremarks: Report invalid contact via www.apnic.net/invalidcontact\nremarks: --------------------------------------------------------\nmnt-by: APNIC-HM\nmnt-lower: MAINT-TATAINDICOM-IN\nmnt-routes: MAINT-TATAINDICOM-IN\nmnt-irt: IRT-TATAINDICOM-IN\nlast-modified: 2020-08-11T13:07:07Z\nsource: APNIC\nirt: IRT-TATAINDICOM-IN\naddress: D26 TTC INDUSTRIAL AREA\naddress: MIDC SANPADA\naddress: PO Turbe Navi Mumbai\naddress: India\ne-mail: ip.abuse@tatatel.co.in\nabuse-mailbox: ip.abuse@tatatel.co.in\nadmin-c: TTLC1-AP\ntech-c: TTLC1-AP\nauth: # Filtered\nremarks: ip.abuse@tatatel.co.in was validated on 2025-08-21\nmnt-by: MAINT-TATAINDICOM-IN1\nlast-modified: 2025-11-18T00:26:19Z\nsource: APNIC\norganisation: ORG-TTLC1-AP\norg-name: TATA TELESERVICES LTD -- CDMA\norg-type: LIR\ncountry: IN\naddress: TATA TELESERVICES LTD\naddress: D26, TTC INDUSTRIAL AREA\naddress: MIDC SANAPADA PO TURBHE\nphone: +91-9805084887\ne-mail: karamjeet.singh@tatatel.co.in\nmnt-ref: APNIC-HM\nmnt-by: APNIC-HM\nlast-modified: 2024-10-17T12:56:14Z\nsource: APNIC\nrole: ABUSE TATAINDICOMIN\ncountry: ZZ\naddress: D26 TTC INDUSTRIAL AREA\naddress: MIDC SANPADA\naddress: PO Turbe Navi Mumbai\naddress: India\nphone: +000000000\ne-mail: ip.abuse@tatatel.co.in\nadmin-c: TTLC1-AP\ntech-c: TTLC1-AP\nnic-hdl: AT1289-AP\nremarks: Generated from irt object IRT-TATAINDICOM-IN\nremarks: ip.abuse@tatatel.co.in was validated on 2025-08-21\nabuse-mailbox: ip.abuse@tatatel.co.in\nmnt-by: APNIC-ABUSE\nlast-modified: 2025-08-21T14:46:49Z\nsource: APNIC\nrole: TATA TELESERVICES LTD -- CDMA - network administr\naddress: D26/2 TTC INDUSTRIAL AREA MIDC SANPADA\ncountry: IN\nphone: +91 2267438600\nfax-no: +91 22-67438752\ne-mail: karamjeet.singh@tatatel.co.in\nadmin-c: KS1338-AP\ntech-c: KS1338-AP\nnic-hdl: TTLC1-AP\nmnt-by: MAINT-TATAINDICOM-IN\nlast-modified: 2024-04-16T13:58:02Z\nsource: APNIC\nroute: 14.97.51.0/24\norigin: AS45820\ndescr: TATA TELESERVICES LTD -- CDMA\n TATA TELESERVICES LTD\n D26, TTC INDUSTRIAL AREA\n MIDC SANAPADA PO TURBHE\nmnt-by: MAINT-TATAINDICOM-IN\nlast-modified: 2021-04-10T16:59:01Z\nsource: APNIC\n",
+        "last_analysis_date": 1767564784,
+        "as_owner": "Tata Teleservices ISP AS",
+        "last_https_certificate": {
+            "cert_signature": {
+                "signature_algorithm": "sha256RSA",
+                "signature": "25b838565e7bac68c7f671074cf602e42d1b3388ce5a9d57a3e2ff9632b47fdc7e94149cbf0c91685492cff3af7cb58308ce6997aea074958b8af4200dedbfb1b2cad59d76ff47776c3c992e7f3d3c270cdb487dd653ac7cfe8c261dd3162222632b6a3967a2378a18e069c207247943b2d5301a7cdec560bc72e09b193235eecbf5210ceaf34e70fdfeb8d5a279039b9b1b3f4acc2c243f374edd9b7f98b2e3f5b66e2cedefacb20e466ab2933c68b779f26213b8c5e3ad164dda232eac6fe5cea51a309fc2e8e80113adbd99304e6a17a8e8bd8f51d1c0e1c39ee7a551d8881a6dc0ec1405edfa0bccd1f5909ef81eff838421317f6914acf8bd4758ac4f90"
+            },
+            "extensions": {
+                "CA": false,
+                "key_usage": [
+                    "digitalSignature",
+                    "keyEncipherment",
+                    "nonRepudiation"
+                ]
+            },
+            "validity": {
+                "not_after": "2022-10-12 07:45:33",
+                "not_before": "2021-10-12 07:45:33"
+            },
+            "size": 994,
+            "version": "V3",
+            "public_key": {
+                "algorithm": "RSA",
+                "rsa": {
+                    "modulus": "cbc3ab11a1a69aa444118fb6c3def70dee12434948963e8735354da14fa3ee670443655bd25b16127c725d41749eda215379203b76a7e5dd4f696ad7ec60354e01d3bd9104f535e5c05e3c7c5c9a38ccaf78261e4b7c683885a7f71880e5516221a6162a910378a01c6d56ca49f4093816dbc629ad7e625995aad120863b018e0ca31809655192524bacdeaaf546f8252adc995af5a35335455a6fbdcb417d00a3d18e9d642e45cac5e14d4c3177785a8fb07683d87323aaa09ac78a07e713f65f60c7d1182f65b23d915746305799d70cc3180eaa574722e45bd3e9e0c0a97bdca290214cd6e07800a944a5ad686a951951b1d49d3a1816c3365d22486d66a1",
+                    "exponent": "10001",
+                    "key_size": 2048
+                }
+            },
+            "thumbprint_sha256": "7bf2379ebcf7a9f9a2c188fecf9a686cdf72b7a48e47ccd333de5c8eea661e38",
+            "thumbprint": "4e614be6cefbf395017156b1f97f1bbaf57e60dd",
+            "serial_number": "6ca5",
+            "issuer": {
+                "C": "--",
+                "ST": "SomeState",
+                "L": "SomeCity",
+                "O": "SomeOrganization",
+                "OU": "SomeOrganizationalUnit",
+                "CN": "localhost",
+                "1.2.840.113549.1.9.1": "root@localhost"
+            },
+            "subject": {
+                "C": "--",
+                "ST": "SomeState",
+                "L": "SomeCity",
+                "O": "SomeOrganization",
+                "OU": "SomeOrganizationalUnit",
+                "CN": "localhost",
+                "1.2.840.113549.1.9.1": "root@localhost"
+            }
+        },
+        "rdap": {
+            "object_class_name": "ip network",
+            "handle": "14.96.0.0 - 14.97.255.255",
+            "start_address": "14.96.0.0",
+            "end_address": "14.97.255.255",
+            "ip_version": "v4",
+            "name": "TATAINDICOM-IN",
+            "type": "ALLOCATED PORTABLE",
+            "country": "IN",
+            "status": [
+                "active"
+            ],
+            "links": [
+                {
+                    "href": "https://rdap.apnic.net/ip/14.96.0.0/15",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "value": "https://rdap.apnic.net/ip/14.97.51.195",
+                    "title": "",
+                    "media": "",
+                    "href_lang": []
+                }
+            ],
+            "notices": [
+                {
+                    "title": "Source",
+                    "description": [
+                        "Objects returned came from source",
+                        "APNIC"
+                    ],
+                    "links": [],
+                    "type": ""
+                },
+                {
+                    "title": "Terms and Conditions",
+                    "description": [
+                        "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+                    ],
+                    "links": [
+                        {
+                            "href": "http://www.apnic.net/db/dbcopyright.html",
+                            "rel": "terms-of-service",
+                            "type": "text/html",
+                            "value": "https://rdap.apnic.net/ip/14.97.51.195",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "type": ""
+                },
+                {
+                    "title": "Whois Inaccuracy Reporting",
+                    "description": [
+                        "If you see inaccuracies in the results, please visit: "
+                    ],
+                    "links": [
+                        {
+                            "href": "https://www.apnic.net/manage-ip/using-whois/abuse-and-spamming/invalid-contact-form",
+                            "rel": "inaccuracy-report",
+                            "type": "text/html",
+                            "value": "https://rdap.apnic.net/ip/14.97.51.195",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "type": ""
+                }
+            ],
+            "events": [
+                {
+                    "event_action": "registration",
+                    "event_date": "2018-04-12T05:47:35Z",
+                    "event_actor": "",
+                    "links": []
+                },
+                {
+                    "event_action": "last changed",
+                    "event_date": "2020-08-11T13:07:07Z",
+                    "event_actor": "",
+                    "links": []
+                }
+            ],
+            "rdap_conformance": [
+                "history_version_0",
+                "nro_rdap_profile_0",
+                "cidr0",
+                "rdap_level_0"
+            ],
+            "entities": [
+                {
+                    "object_class_name": "entity",
+                    "handle": "IRT-TATAINDICOM-IN",
+                    "vcard_array": [
+                        {
+                            "name": "version",
+                            "type": "text",
+                            "values": [
+                                "4.0"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "fn",
+                            "type": "text",
+                            "values": [
+                                "IRT-TATAINDICOM-IN"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "kind",
+                            "type": "text",
+                            "values": [
+                                "group"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "adr",
+                            "parameters": {
+                                "label": [
+                                    "D26 TTC INDUSTRIAL AREA\nMIDC SANPADA\nPO Turbe Navi Mumbai\nIndia"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": "email",
+                            "type": "text",
+                            "values": [
+                                "ip.abuse@tatatel.co.in"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "email",
+                            "parameters": {
+                                "pref": [
+                                    "1"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "ip.abuse@tatatel.co.in"
+                            ]
+                        }
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "remarks",
+                            "description": [
+                                "ip.abuse@tatatel.co.in was validated on 2025-08-21"
+                            ],
+                            "links": [],
+                            "type": ""
+                        }
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.apnic.net/entity/IRT-TATAINDICOM-IN",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.apnic.net/ip/14.97.51.195",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "events": [
+                        {
+                            "event_action": "registration",
+                            "event_date": "2010-11-09T04:07:58Z",
+                            "event_actor": "",
+                            "links": []
+                        },
+                        {
+                            "event_action": "last changed",
+                            "event_date": "2025-11-18T00:26:19Z",
+                            "event_actor": "",
+                            "links": []
+                        }
+                    ],
+                    "public_ids": [],
+                    "entities": [],
+                    "as_event_actor": [],
+                    "status": [],
+                    "port43": "",
+                    "networks": [],
+                    "autnums": [],
+                    "url": "",
+                    "lang": "",
+                    "rdap_conformance": []
+                },
+                {
+                    "object_class_name": "entity",
+                    "handle": "TTLC1-AP",
+                    "vcard_array": [
+                        {
+                            "name": "version",
+                            "type": "text",
+                            "values": [
+                                "4.0"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "fn",
+                            "type": "text",
+                            "values": [
+                                "TATA TELESERVICES LTD -- CDMA - network administr"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "kind",
+                            "type": "text",
+                            "values": [
+                                "group"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "adr",
+                            "parameters": {
+                                "label": [
+                                    "D26/2 TTC INDUSTRIAL AREA MIDC SANPADA"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": "tel",
+                            "parameters": {
+                                "type": [
+                                    "voice"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "+91 2267438600"
+                            ]
+                        },
+                        {
+                            "name": "tel",
+                            "parameters": {
+                                "type": [
+                                    "fax"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "+91 22-67438752"
+                            ]
+                        },
+                        {
+                            "name": "email",
+                            "type": "text",
+                            "values": [
+                                "karamjeet.singh@tatatel.co.in"
+                            ],
+                            "parameters": {}
+                        }
+                    ],
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.apnic.net/entity/TTLC1-AP",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.apnic.net/ip/14.97.51.195",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "events": [
+                        {
+                            "event_action": "registration",
+                            "event_date": "2010-08-30T22:30:15Z",
+                            "event_actor": "",
+                            "links": []
+                        },
+                        {
+                            "event_action": "last changed",
+                            "event_date": "2024-04-16T13:58:02Z",
+                            "event_actor": "",
+                            "links": []
+                        }
+                    ],
+                    "public_ids": [],
+                    "entities": [],
+                    "remarks": [],
+                    "as_event_actor": [],
+                    "status": [],
+                    "port43": "",
+                    "networks": [],
+                    "autnums": [],
+                    "url": "",
+                    "lang": "",
+                    "rdap_conformance": []
+                },
+                {
+                    "object_class_name": "entity",
+                    "handle": "ORG-TTLC1-AP",
+                    "vcard_array": [
+                        {
+                            "name": "version",
+                            "type": "text",
+                            "values": [
+                                "4.0"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "fn",
+                            "type": "text",
+                            "values": [
+                                "TATA TELESERVICES LTD -- CDMA"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "kind",
+                            "type": "text",
+                            "values": [
+                                "org"
+                            ],
+                            "parameters": {}
+                        },
+                        {
+                            "name": "adr",
+                            "parameters": {
+                                "label": [
+                                    "TATA TELESERVICES LTD\nD26, TTC INDUSTRIAL AREA\nMIDC SANAPADA PO TURBHE"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": "tel",
+                            "parameters": {
+                                "type": [
+                                    "voice"
+                                ]
+                            },
+                            "type": "text",
+                            "values": [
+                                "+91-9805084887"
+                            ]
+                        },
+                        {
+                            "name": "email",
+                            "type": "text",
+                            "values": [
+                                "karamjeet.singh@tatatel.co.in"
+                            ],
+                            "parameters": {}
+                        }
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "links": [
+                        {
+                            "href": "https://rdap.apnic.net/entity/ORG-TTLC1-AP",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "value": "https://rdap.apnic.net/ip/14.97.51.195",
+                            "title": "",
+                            "media": "",
+                            "href_lang": []
+                        }
+                    ],
+                    "events": [
+                        {
+                            "event_action": "registration",
+                            "event_date": "2017-08-08T23:28:46Z",
+                            "event_actor": "",
+                            "links": []
+                        },
+                        {
+                            "event_action": "last changed",
+                            "event_date": "2024-10-17T12:56:14Z",
+                            "event_actor": "",
+                            "links": []
+                        }
+                    ],
+                    "public_ids": [],
+                    "entities": [],
+                    "remarks": [],
+                    "as_event_actor": [],
+                    "status": [],
+                    "port43": "",
+                    "networks": [],
+                    "autnums": [],
+                    "url": "",
+                    "lang": "",
+                    "rdap_conformance": []
+                }
+            ],
+            "port43": "whois.apnic.net",
+            "cidr0_cidrs": [
+                {
+                    "v4prefix": "14.96.0.0",
+                    "length": 15,
+                    "v6prefix": ""
+                }
+            ],
+            "remarks": [
+                {
+                    "title": "description",
+                    "description": [
+                        "TATA TELESERVICES LTD - TATA INDICOM - CDMA DIVISION",
+                        "D26/2 TTC INDUSTRIAL AREA",
+                        "MIDC SANAPADA PO TURBHE"
+                    ],
+                    "links": [],
+                    "type": ""
+                },
+                {
+                    "title": "remarks",
+                    "description": [
+                        "--------------------------------------------------------",
+                        "To report network abuse, please contact mnt-irt",
+                        "For troubleshooting, please contact tech-c and admin-c",
+                        "Report invalid contact via www.apnic.net/invalidcontact",
+                        "--------------------------------------------------------"
+                    ],
+                    "links": [],
+                    "type": ""
+                }
+            ],
+            "parent_handle": "",
+            "arin_originas0_originautnums": []
+        }
+    },
+    "id": "14.97.51.195"
+}
