@@ -89,3 +89,4 @@ Note: `run-*` commands perform startup connectivity checks. If Redis/Elasticsear
 - `results/` stores experiment and pipeline output artifacts:
   - `exploratory_result/` contains outputs for the Exploratory Study (different prompts across Qwen3-14B, Qwen3-30B-A3B, and Qwen3-32B).
   - `one_day_result_example/` contains a partial public sample of one-day system run outputs.
+  - `one_day_result_example/module3_log_investigation.md` provides a module3 investigation example with context-enriched prompt and triage verdict.
