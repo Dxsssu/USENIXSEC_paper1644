@@ -25,19 +25,30 @@ USENIXSEC_paper1644/
 ├── main.py
 ├── pyproject.toml
 ├── uv.lock
-├── draft
 ├── config/
 │   ├── system_config.json
 │   └── assets_static.json
 ├── docs/
 │   └── AI_Powered_SOC_Agents_for_Automated_Network_Alert_Triage.pdf
 ├── models/
+│   └── README.md
 ├── prompts/
 │   ├── module_context_enhanced_llm/
 │   └── exploratory_study/
-├── results/
-├── scripts/
 ├── data/
+│   ├── README.md
+│   ├── alarm-tianyan.json
+│   ├── cty-nginx.json
+│   ├── huorong.json
+│   ├── tianyan.json
+│   ├── waf.json
+│   ├── zhongzi.json
+│   ├── asset_mapping.json
+│   └── vt_reports/
+├── results/
+│   ├── README.md
+│   ├── exploratory_result/
+│   └── one_day_result_example/
 └── src/
     ├── module_alert_receiver/
     ├── module_aggregation_filtering/
@@ -67,3 +78,14 @@ USENIXSEC_paper1644/
    - `uv run python main.py --config config/system_config.json run-module3`
 
 Note: `run-*` commands perform startup connectivity checks. If Redis/Elasticsearch is unreachable or config is invalid, the process exits immediately with an error.
+
+## Data and Results
+
+- `data/` stores sample datasets used by this project:
+  - Sample alert logs (`alarm-tianyan.json`, `cty-nginx.json`, `huorong.json`, `tianyan.json`, `waf.json`, `zhongzi.json`), where each file currently includes one example alert due to privacy constraints.
+  - `vt_reports/`, which contains IP reputation samples from VirusTotal threat intelligence.
+  - `asset_mapping.json`, which contains a privacy-preserving subset of enterprise CMDB asset mapping records.
+
+- `results/` stores experiment and pipeline output artifacts:
+  - `exploratory_result/` contains outputs for the Exploratory Study (different prompts across Qwen3-14B, Qwen3-30B-A3B, and Qwen3-32B).
+  - `one_day_result_example/` contains a partial public sample of one-day system run outputs.
